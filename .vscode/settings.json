@@ -1,0 +1,18 @@
+{
+    "search.exclude": {
+        "assets/Lib/*": true,
+        "plugins/IIFramework/bin/*": true,
+    },
+    "files.exclude": {
+        "library": true,
+        "local": true,
+        "temp": true,
+        "preview-templates": true,
+        "jsconfig.json": true,
+        "tsconfig.json": true,
+        "creator.d.ts": true,
+        "packages": false,
+        "build-assets": true,
+        "build": true,
+    }
+}

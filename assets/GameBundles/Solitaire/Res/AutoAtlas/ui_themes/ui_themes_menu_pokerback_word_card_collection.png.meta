@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ca8c554d-45dd-46cd-9ce8-ea4ea07d5914",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": true,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 191,
+  "height": 21,
+  "platformSettings": {},
+  "subMetas": {
+    "ui_themes_menu_pokerback_word_card_collection": {
+      "ver": "1.0.4",
+      "uuid": "6f55039e-6fc6-42e8-b138-f417f56c2762",
+      "rawTextureUuid": "ca8c554d-45dd-46cd-9ce8-ea4ea07d5914",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 191,
+      "height": 21,
+      "rawWidth": 191,
+      "rawHeight": 21,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

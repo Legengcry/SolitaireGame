@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "poker_snow_6",
+    "texture": "0d0f14d3-33d4-4610-abcc-e0eda45a9caf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      82,
+      127
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      82,
+      127
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

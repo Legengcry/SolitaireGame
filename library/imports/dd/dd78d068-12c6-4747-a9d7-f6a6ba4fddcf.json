@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "poker_natural_4",
+    "texture": "dde1506d-21db-4c0c-a802-72bb1ac01101",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      82,
+      127
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      82,
+      127
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "poker_animals_4",
+    "texture": "c8cc4f08-3dea-41fa-817d-456835deaea0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      82,
+      127
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      82,
+      127
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

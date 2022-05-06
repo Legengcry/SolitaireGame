@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "poker_artistic_5",
+    "texture": "b5c4d0f6-5997-4bba-82f7-3caa9ae3d30f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      82,
+      127
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      82,
+      127
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

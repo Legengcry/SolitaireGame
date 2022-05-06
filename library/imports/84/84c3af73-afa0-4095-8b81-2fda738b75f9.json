@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "com-icon-ad",
+    "texture": "85c64335-2bc0-4050-b648-d7b11b889692",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      59,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      59,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_menu_setting_word",
+    "texture": "9ef66705-3bca-4c90-a8d9-6235e529a379",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

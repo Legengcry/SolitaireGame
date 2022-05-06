@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_statistics_icon_best_time",
+    "texture": "213ec9cd-7bdb-4846-989e-114320dde27d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      40,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

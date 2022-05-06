@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_area_receive",
+    "texture": "dec12e92-ab25-4d67-aae3-2e0ab38c22d5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      81,
+      125
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      81,
+      125
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

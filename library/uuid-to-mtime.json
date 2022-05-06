@@ -1,0 +1,4207 @@
+{
+  "9836134e-b892-4283-b6b2-78b5acf3ed45": {
+    "asset": 1651300823880,
+    "meta": 1651670299673,
+    "relativePath": "effects"
+  },
+  "430eccbf-bf2c-4e6e-8c0c-884bbb487f32": {
+    "asset": 1651300823875,
+    "meta": 1651670299705,
+    "relativePath": "effects\\__builtin-editor-gizmo-line.effect"
+  },
+  "6c5cf6e1-b044-4eac-9431-835644d57381": {
+    "asset": 1651300823877,
+    "meta": 1651670299720,
+    "relativePath": "effects\\__builtin-editor-gizmo-unlit.effect"
+  },
+  "115286d1-2e10-49ee-aab4-341583f607e8": {
+    "asset": 1651300823879,
+    "meta": 1651670299749,
+    "relativePath": "effects\\__builtin-editor-gizmo.effect"
+  },
+  "abc2cb62-7852-4525-a90d-d474487b88f2": {
+    "asset": 1651300823868,
+    "meta": 1651670299845,
+    "relativePath": "effects\\builtin-phong.effect"
+  },
+  "e2f00085-c597-422d-9759-52c360279106": {
+    "asset": 1651300823872,
+    "meta": 1651670299916,
+    "relativePath": "effects\\builtin-toon.effect"
+  },
+  "f8e6b000-5643-4b86-9080-aa680ce1f599": {
+    "asset": 1651300823924,
+    "meta": 1651670299919,
+    "relativePath": "image"
+  },
+  "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
+    "asset": 1651300823887,
+    "meta": 1651670299950,
+    "relativePath": "image\\default_btn_normal.png"
+  },
+  "71561142-4c83-4933-afca-cb7a17f67053": {
+    "asset": 1651300823886,
+    "meta": 1651670299947,
+    "relativePath": "image\\default_btn_disabled.png"
+  },
+  "b43ff3c2-02bb-4874-81f7-f2dea6970f18": {
+    "asset": 1651300823889,
+    "meta": 1651670299968,
+    "relativePath": "image\\default_btn_pressed.png"
+  },
+  "edd215b9-2796-4a05-aaf5-81f96c9281ce": {
+    "asset": 1651300823891,
+    "meta": 1651670299973,
+    "relativePath": "image\\default_editbox_bg.png"
+  },
+  "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": {
+    "asset": 1651300823893,
+    "meta": 1651670299987,
+    "relativePath": "image\\default_panel.png"
+  },
+  "99170b0b-d210-46f1-b213-7d9e3f23098a": {
+    "asset": 1651300823898,
+    "meta": 1651670299990,
+    "relativePath": "image\\default_progressbar_bg.png"
+  },
+  "cfef78f1-c8df-49b7-8ed0-4c953ace2621": {
+    "asset": 1651300823897,
+    "meta": 1651670300006,
+    "relativePath": "image\\default_progressbar.png"
+  },
+  "567dcd80-8bf4-4535-8a5a-313f1caf078a": {
+    "asset": 1651300823901,
+    "meta": 1651670300008,
+    "relativePath": "image\\default_radio_button_off.png"
+  },
+  "9d60001f-b5f4-4726-a629-2659e3ded0b8": {
+    "asset": 1651300823902,
+    "meta": 1651670300022,
+    "relativePath": "image\\default_radio_button_on.png"
+  },
+  "4bab67cb-18e6-4099-b840-355f0473f890": {
+    "asset": 1651300823907,
+    "meta": 1651670300025,
+    "relativePath": "image\\default_scrollbar_bg.png"
+  },
+  "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": {
+    "asset": 1651300823910,
+    "meta": 1651670300037,
+    "relativePath": "image\\default_scrollbar_vertical_bg.png"
+  },
+  "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": {
+    "asset": 1651300823909,
+    "meta": 1651670300039,
+    "relativePath": "image\\default_scrollbar_vertical.png"
+  },
+  "0291c134-b3da-4098-b7b5-e397edbe947f": {
+    "asset": 1651300823904,
+    "meta": 1651670300050,
+    "relativePath": "image\\default_scrollbar.png"
+  },
+  "0275e94c-56a7-410f-bd1a-fc7483f7d14a": {
+    "asset": 1651300823915,
+    "meta": 1651670300052,
+    "relativePath": "image\\default_sprite_splash.png"
+  },
+  "6e056173-d285-473c-b206-40a7fff5386e": {
+    "asset": 1651300823914,
+    "meta": 1651670300063,
+    "relativePath": "image\\default_sprite.png"
+  },
+  "73a0903d-d80e-4e3c-aa67-f999543c08f5": {
+    "asset": 1651300823917,
+    "meta": 1651670300066,
+    "relativePath": "image\\default_toggle_checkmark.png"
+  },
+  "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": {
+    "asset": 1651300823919,
+    "meta": 1651670300079,
+    "relativePath": "image\\default_toggle_disabled.png"
+  },
+  "d29077ba-1627-4a72-9579-7b56a235340c": {
+    "asset": 1651300823921,
+    "meta": 1651670300081,
+    "relativePath": "image\\default_toggle_normal.png"
+  },
+  "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": {
+    "asset": 1651300823923,
+    "meta": 1651670300091,
+    "relativePath": "image\\default_toggle_pressed.png"
+  },
+  "5c3eedba-6c41-4c0c-9ba7-d91f813cbd1c": {
+    "asset": 1651300823928,
+    "meta": 1651670300095,
+    "relativePath": "materials"
+  },
+  "c4480a0a-6ac5-443f-8b40-361a14257fc8": {
+    "asset": 1651300823926,
+    "meta": 1651670300785,
+    "relativePath": "materials\\builtin-phong.mtl"
+  },
+  "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
+    "asset": 1651300823935,
+    "meta": 1651670300102,
+    "relativePath": "misc"
+  },
+  "600301aa-3357-4a10-b086-84f011fa32ba": {
+    "asset": 1651300823883,
+    "meta": 1651670300100,
+    "relativePath": "image\\default-particle.png"
+  },
+  "db019bf7-f71c-4111-98cf-918ea180cb48": {
+    "asset": 1651300824012,
+    "meta": 1651670300105,
+    "relativePath": "model"
+  },
+  "e39e96e6-6f6e-413f-bcf1-ac7679bb648a": {
+    "asset": 1651300824003,
+    "meta": 1651670300107,
+    "relativePath": "model\\prefab"
+  },
+  "a87cc147-01b2-43f8-8e42-a7ca90b0c757": {
+    "asset": 1651475487532,
+    "meta": 1651670300110,
+    "relativePath": "model\\prefab\\box.prefab"
+  },
+  "fe1417b6-fe6b-46a4-ae7c-9fd331f33a2a": {
+    "asset": 1651475487539,
+    "meta": 1651670300113,
+    "relativePath": "model\\prefab\\capsule.prefab"
+  },
+  "b5fc2cf2-7942-483d-be1f-bbeadc4714ad": {
+    "asset": 1651475487546,
+    "meta": 1651670300116,
+    "relativePath": "model\\prefab\\cone.prefab"
+  },
+  "2be36297-9abb-4fee-8049-9ed5e271da8a": {
+    "asset": 1651300823933,
+    "meta": 1651670300121,
+    "relativePath": "misc\\default_video.mp4"
+  },
+  "1c5e4038-953a-44c2-b620-0bbfc6170477": {
+    "asset": 1651475487555,
+    "meta": 1651670300119,
+    "relativePath": "model\\prefab\\cylinder.prefab"
+  },
+  "3f376125-a699-40ca-ad05-04d662eaa1f2": {
+    "asset": 1651475487561,
+    "meta": 1651670300124,
+    "relativePath": "model\\prefab\\plane.prefab"
+  },
+  "6c9ef10d-b479-420b-bfe6-39cdda6a8ae0": {
+    "asset": 1651475487566,
+    "meta": 1651670300128,
+    "relativePath": "model\\prefab\\quad.prefab"
+  },
+  "2d9a4b85-b0ab-4c46-84c5-18f393ab2058": {
+    "asset": 1651475487572,
+    "meta": 1651670300130,
+    "relativePath": "model\\prefab\\sphere.prefab"
+  },
+  "de510076-056b-484f-b94c-83bef217d0e1": {
+    "asset": 1651475487708,
+    "meta": 1651670300180,
+    "relativePath": "model\\prefab\\torus.prefab"
+  },
+  "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
+    "asset": 1651300824018,
+    "meta": 1651670300181,
+    "relativePath": "obsolete"
+  },
+  "8a96b965-2dc0-4e03-aa90-3b79cb93b5b4": {
+    "asset": 1651300824018,
+    "meta": 1651670300195,
+    "relativePath": "obsolete\\atom.png"
+  },
+  "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
+    "asset": 1651300824025,
+    "meta": 1651670300196,
+    "relativePath": "particle"
+  },
+  "b8223619-7e38-47c4-841f-9160c232495a": {
+    "asset": 1651300824015,
+    "meta": 1651670300824,
+    "relativePath": "obsolete\\atom.plist"
+  },
+  "d0a82d39-bede-46c4-b698-c81ff0dedfff": {
+    "asset": 1651300824024,
+    "meta": 1651670300210,
+    "relativePath": "particle\\atom.png"
+  },
+  "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
+    "asset": 1651300824144,
+    "meta": 1651670300211,
+    "relativePath": "prefab"
+  },
+  "897ef7a1-4860-4f64-968d-f5924b18668a": {
+    "asset": 1651475487770,
+    "meta": 1651670300216,
+    "relativePath": "prefab\\2d-camera.prefab"
+  },
+  "b2687ac4-099e-403c-a192-ff477686f4f5": {
+    "asset": 1651300824021,
+    "meta": 1651670300828,
+    "relativePath": "particle\\atom.plist"
+  },
+  "70d7cdb0-04cd-41bb-9480-c06a4785f386": {
+    "asset": 1651475487777,
+    "meta": 1651670300220,
+    "relativePath": "prefab\\3d-camera.prefab"
+  },
+  "70bbeb73-6dc2-4ee4-8faf-76b3a0e34ec4": {
+    "asset": 1651475487786,
+    "meta": 1651670300224,
+    "relativePath": "prefab\\3d-particle.prefab"
+  },
+  "ed88f13d-fcad-4848-aa35-65a2cb973584": {
+    "asset": 1651475487793,
+    "meta": 1651670300228,
+    "relativePath": "prefab\\3d-stage.prefab"
+  },
+  "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
+    "asset": 1651475487799,
+    "meta": 1651670300231,
+    "relativePath": "prefab\\button.prefab"
+  },
+  "2c937608-2562-40ea-b264-7395df6f0cea": {
+    "asset": 1651475487806,
+    "meta": 1651670300234,
+    "relativePath": "prefab\\canvas.prefab"
+  },
+  "61aeb05b-3b32-452b-8eed-2b76deeed554": {
+    "asset": 1651475487814,
+    "meta": 1651670300237,
+    "relativePath": "prefab\\editbox.prefab"
+  },
+  "27756ebb-3d33-44b0-9b96-e858fadd4dd4": {
+    "asset": 1651475487820,
+    "meta": 1651670300242,
+    "relativePath": "prefab\\label.prefab"
+  },
+  "785a442c-3ceb-45be-a46e-7317f625f3b9": {
+    "asset": 1651475487829,
+    "meta": 1651670300245,
+    "relativePath": "prefab\\layout.prefab"
+  },
+  "a3ee0214-b432-4865-9666-4a3211814282": {
+    "asset": 1651300824099,
+    "meta": 1651670300247,
+    "relativePath": "prefab\\light"
+  },
+  "61906da3-7003-4bda-9abc-5769c76faee4": {
+    "asset": 1651475487839,
+    "meta": 1651670300254,
+    "relativePath": "prefab\\light\\ambient.prefab"
+  },
+  "ddb99b39-7004-47cd-9705-751905c43c46": {
+    "asset": 1651475487846,
+    "meta": 1651670300263,
+    "relativePath": "prefab\\light\\directional.prefab"
+  },
+  "0cf30284-9073-46bc-9eba-e62b69dbbff3": {
+    "asset": 1651475487853,
+    "meta": 1651670300268,
+    "relativePath": "prefab\\light\\point.prefab"
+  },
+  "f5331fd2-bf42-4ee3-a3fd-3e1657600eff": {
+    "asset": 1651475487860,
+    "meta": 1651670300272,
+    "relativePath": "prefab\\light\\spot.prefab"
+  },
+  "ca8401fe-ad6e-41a8-bd46-8e3e4e9945be": {
+    "asset": 1651475487868,
+    "meta": 1651670300277,
+    "relativePath": "prefab\\pageview.prefab"
+  },
+  "cd33edea-55f5-46c2-958d-357a01384a36": {
+    "asset": 1651475487877,
+    "meta": 1651670300281,
+    "relativePath": "prefab\\particlesystem.prefab"
+  },
+  "5965ffac-69da-4b55-bcde-9225d0613c28": {
+    "asset": 1651475487886,
+    "meta": 1651670300285,
+    "relativePath": "prefab\\progressBar.prefab"
+  },
+  "4a37dd57-78cd-4cec-aad4-f11a73d12b63": {
+    "asset": 1651475487894,
+    "meta": 1651670300289,
+    "relativePath": "prefab\\richtext.prefab"
+  },
+  "32044bd2-481f-4cf1-a656-e2b2fb1594eb": {
+    "asset": 1651475487901,
+    "meta": 1651670300293,
+    "relativePath": "prefab\\scrollview.prefab"
+  },
+  "0004d1cf-a0ad-47d8-ab17-34d3db9d35a3": {
+    "asset": 1651475487910,
+    "meta": 1651670300298,
+    "relativePath": "prefab\\slider.prefab"
+  },
+  "1f55e3be-b89b-4b79-88de-47fd31018044": {
+    "asset": 1651475487918,
+    "meta": 1651670300306,
+    "relativePath": "prefab\\sprite_splash.prefab"
+  },
+  "96083d03-c332-4a3f-9386-d03e2d19e8ee": {
+    "asset": 1651475487924,
+    "meta": 1651670300309,
+    "relativePath": "prefab\\sprite.prefab"
+  },
+  "7de03a80-4457-438d-95a7-3e7cdffd6086": {
+    "asset": 1651475487931,
+    "meta": 1651670300312,
+    "relativePath": "prefab\\tiledmap.prefab"
+  },
+  "0e42ba95-1fa1-46aa-b2cf-143cd1bcee2c": {
+    "asset": 1651475487937,
+    "meta": 1651670300315,
+    "relativePath": "prefab\\tiledtile.prefab"
+  },
+  "0d784963-d024-4ea6-a7db-03be0ad63010": {
+    "asset": 1651475487945,
+    "meta": 1651670300325,
+    "relativePath": "prefab\\toggle.prefab"
+  },
+  "bf0a434c-84dd-4a8e-a08a-7a36f180cc75": {
+    "asset": 1651475487954,
+    "meta": 1651670300342,
+    "relativePath": "prefab\\toggleContainer.prefab"
+  },
+  "d1b8be49-b0a0-435c-83b7-552bed4bbe35": {
+    "asset": 1651475487963,
+    "meta": 1651670300348,
+    "relativePath": "prefab\\toggleGroup.prefab"
+  },
+  "232d2782-c4bd-4bb4-9e01-909f03d6d3b9": {
+    "asset": 1651475487971,
+    "meta": 1651670300358,
+    "relativePath": "prefab\\videoplayer.prefab"
+  },
+  "8c5001fd-07ee-4a4b-a8a0-63e15195e94d": {
+    "asset": 1651475487977,
+    "meta": 1651670300379,
+    "relativePath": "prefab\\webview.prefab"
+  },
+  "d8afc78c-4eac-4a9f-83dd-67bc70344d33": {
+    "asset": 1651300824208,
+    "meta": 1651670300380,
+    "relativePath": "resources"
+  },
+  "294c1663-4adf-4a1e-a795-53808011a38a": {
+    "asset": 1651300824207,
+    "meta": 1651670300381,
+    "relativePath": "resources\\effects"
+  },
+  "30682f87-9f0d-4f17-8a44-72863791461b": {
+    "asset": 1651300824150,
+    "meta": 1651670300392,
+    "relativePath": "resources\\effects\\builtin-2d-graphics.effect"
+  },
+  "144c3297-af63-49e8-b8ef-1cfa29b3be28": {
+    "asset": 1651300824152,
+    "meta": 1651670300405,
+    "relativePath": "resources\\effects\\builtin-2d-gray-sprite.effect"
+  },
+  "f18742d7-56d2-4eb5-ae49-2d9d710b37c8": {
+    "asset": 1651300824174,
+    "meta": 1651670300421,
+    "relativePath": "resources\\effects\\builtin-2d-label.effect"
+  },
+  "0e93aeaa-0b53-4e40-b8e0-6268b4e07bd7": {
+    "asset": 1651300824181,
+    "meta": 1651670300438,
+    "relativePath": "resources\\effects\\builtin-2d-spine.effect"
+  },
+  "2874f8dd-416c-4440-81b7-555975426e93": {
+    "asset": 1651300824187,
+    "meta": 1651670300457,
+    "relativePath": "resources\\effects\\builtin-2d-sprite.effect"
+  },
+  "829a282c-b049-4019-bd38-5ace8d8a6417": {
+    "asset": 1651300824193,
+    "meta": 1651670300585,
+    "relativePath": "resources\\effects\\builtin-3d-particle.effect"
+  },
+  "2a7c0036-e0b3-4fe1-8998-89a54b8a2bec": {
+    "asset": 1651300824199,
+    "meta": 1651670300613,
+    "relativePath": "resources\\effects\\builtin-3d-trail.effect"
+  },
+  "c0040c95-c57f-49cd-9cbc-12316b73d0d4": {
+    "asset": 1651300824202,
+    "meta": 1651670300629,
+    "relativePath": "resources\\effects\\builtin-clear-stencil.effect"
+  },
+  "6d91e591-4ce0-465c-809f-610ec95019c6": {
+    "asset": 1651300824206,
+    "meta": 1651670300668,
+    "relativePath": "resources\\effects\\builtin-unlit.effect"
+  },
+  "bbee2217-c261-49bd-a8ce-708d6bcc3500": {
+    "asset": 1651300824227,
+    "meta": 1651670300671,
+    "relativePath": "resources\\materials"
+  },
+  "6f801092-0c37-4f30-89ef-c8d960825b36": {
+    "asset": 1651300824209,
+    "meta": 1651670300876,
+    "relativePath": "resources\\materials\\builtin-2d-base.mtl"
+  },
+  "a153945d-2511-4c14-be7b-05d242f47d57": {
+    "asset": 1651300824211,
+    "meta": 1651670300911,
+    "relativePath": "resources\\materials\\builtin-2d-graphics.mtl"
+  },
+  "3a7bb79f-32fd-422e-ada2-96f518fed422": {
+    "asset": 1651300824214,
+    "meta": 1651670300914,
+    "relativePath": "resources\\materials\\builtin-2d-gray-sprite.mtl"
+  },
+  "e02d87d4-e599-4d16-8001-e14891ac6506": {
+    "asset": 1651300824216,
+    "meta": 1651670300916,
+    "relativePath": "resources\\materials\\builtin-2d-label.mtl"
+  },
+  "7afd064b-113f-480e-b793-8817d19f63c3": {
+    "asset": 1651300824217,
+    "meta": 1651670300918,
+    "relativePath": "resources\\materials\\builtin-2d-spine.mtl"
+  },
+  "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432": {
+    "asset": 1651300824220,
+    "meta": 1651670300921,
+    "relativePath": "resources\\materials\\builtin-2d-sprite.mtl"
+  },
+  "432fa09c-cf03-4cff-a186-982604408a07": {
+    "asset": 1651300824221,
+    "meta": 1651670300924,
+    "relativePath": "resources\\materials\\builtin-3d-particle.mtl"
+  },
+  "466d4f9b-e5f4-4ea8-85d5-3c6e9a65658a": {
+    "asset": 1651300824223,
+    "meta": 1651670300926,
+    "relativePath": "resources\\materials\\builtin-3d-trail.mtl"
+  },
+  "cf7e0bb8-a81c-44a9-ad79-d28d43991032": {
+    "asset": 1651300824224,
+    "meta": 1651670300930,
+    "relativePath": "resources\\materials\\builtin-clear-stencil.mtl"
+  },
+  "2a296057-247c-4a1c-bbeb-0548b6c98650": {
+    "asset": 1651300824226,
+    "meta": 1651670300932,
+    "relativePath": "resources\\materials\\builtin-unlit.mtl"
+  },
+  "954fec8b-cd16-4bb9-a3b7-7719660e7558": {
+    "asset": 1651300824009,
+    "meta": 1651670303731,
+    "relativePath": "model\\primitives.fbx"
+  },
+  "32effa49-b5ad-4890-add3-f2c8103ff6c2": {
+    "asset": 1651670284865,
+    "meta": 1651670305019,
+    "relativePath": "_Art"
+  },
+  "2883b143-76b9-40b8-a42a-2f73779baba8": {
+    "asset": 1651670284864,
+    "meta": 1651670305020,
+    "relativePath": "_Art\\Solitaire"
+  },
+  "eebeacf4-bc9e-4d24-bec9-428aa8ee9844": {
+    "asset": 1651498135814,
+    "meta": 1651502111921,
+    "relativePath": "_Art\\Solitaire\\效果图"
+  },
+  "ebab8d65-9ce2-4afb-a27d-bfe46331d756": {
+    "asset": 1651496022604,
+    "meta": 1651496066698,
+    "relativePath": "DevScene.fire"
+  },
+  "c639ee54-0a63-4b61-b89e-c7b79089953c": {
+    "asset": 1651670284785,
+    "meta": 1651670305021,
+    "relativePath": "GameBundles"
+  },
+  "d7239745-21f2-4562-8a4c-02023074a65d": {
+    "asset": 1651670284784,
+    "meta": 1651670305022,
+    "relativePath": "GameBundles\\Solitaire"
+  },
+  "3fda9941-1386-4163-a955-054a184c6dff": {
+    "asset": 1651670284651,
+    "meta": 1651670305023,
+    "relativePath": "GameBundles\\Solitaire\\Res"
+  },
+  "200389cc-5e77-4362-bccc-60c78e5e4750": {
+    "asset": 1651670283503,
+    "meta": 1651670305024,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Audio"
+  },
+  "451c6e0f-ff49-486c-abf7-23719ce5197b": {
+    "asset": 1651496022627,
+    "meta": 1651496067568,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Audio\\solitaire.effect.coin_drop.mp3"
+  },
+  "d9695f9f-3765-4d5a-88da-dab9474a7008": {
+    "asset": 1651496022628,
+    "meta": 1651496067565,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Audio\\solitaire.effect.default.mp3"
+  },
+  "4949f643-5958-4fb0-b378-e4901ee6bb3e": {
+    "asset": 1651496022629,
+    "meta": 1651496067575,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Audio\\solitaire.effect.failed.mp3"
+  },
+  "8e06ea2a-b5c6-4959-9268-3bab389d237e": {
+    "asset": 1651496022631,
+    "meta": 1651496067578,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Audio\\solitaire.effect.flip.mp3"
+  },
+  "a580ac2a-3b7a-4d35-86ae-a49f7a3d17f5": {
+    "asset": 1651496022634,
+    "meta": 1651496067586,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Audio\\solitaire.effect.foundations0.mp3"
+  },
+  "40e82f68-cf2c-4ae4-b02c-aa1e7ebc28fe": {
+    "asset": 1651496022635,
+    "meta": 1651496067590,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Audio\\solitaire.effect.foundations1.mp3"
+  },
+  "1878aac1-f67b-4664-8630-d19187a8884d": {
+    "asset": 1651496022636,
+    "meta": 1651496067597,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Audio\\solitaire.effect.foundations2.mp3"
+  },
+  "989f4ec4-197c-432d-91c7-b6eb0e2e0444": {
+    "asset": 1651496022638,
+    "meta": 1651496067602,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Audio\\solitaire.effect.foundations3.mp3"
+  },
+  "fbfd35a7-1a1b-4144-9b95-29a94ca23bbc": {
+    "asset": 1651496022640,
+    "meta": 1651496067608,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Audio\\solitaire.effect.foundations4.mp3"
+  },
+  "85186bc6-e76e-4115-a879-79f8185b4cee": {
+    "asset": 1651496022643,
+    "meta": 1651496067612,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Audio\\solitaire.effect.foundations5.mp3"
+  },
+  "c81d0ee1-0f09-4e86-97c2-1cf43280174f": {
+    "asset": 1651496022644,
+    "meta": 1651496067618,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Audio\\solitaire.effect.foundations6.mp3"
+  },
+  "6e61627b-ef8d-42b7-96fc-505938546be8": {
+    "asset": 1651496022646,
+    "meta": 1651496067623,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Audio\\solitaire.effect.foundations7.mp3"
+  },
+  "2c34a7ec-8809-4c93-94bc-ec6209fc0e28": {
+    "asset": 1651496022647,
+    "meta": 1651496067628,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Audio\\solitaire.effect.foundations8.mp3"
+  },
+  "ea7bf149-1796-4eac-9d04-49ad6c92629f": {
+    "asset": 1651496022648,
+    "meta": 1651496067632,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Audio\\solitaire.effect.foundations9.mp3"
+  },
+  "3104bc1d-8a50-4d7a-93d7-bb048f47477e": {
+    "asset": 1651496022650,
+    "meta": 1651496067638,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Audio\\solitaire.effect.invalid.mp3"
+  },
+  "a76d0e07-215a-4df1-bbf9-dce04ee28e20": {
+    "asset": 1651496022651,
+    "meta": 1651496067643,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Audio\\solitaire.effect.jump.wav"
+  },
+  "87dc31c7-2bbe-41a9-b9d5-ef09b23d867d": {
+    "asset": 1651496022652,
+    "meta": 1651496067647,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Audio\\solitaire.effect.move.mp3"
+  },
+  "055b72f3-77b0-4045-b110-f49a109fb30a": {
+    "asset": 1651496022654,
+    "meta": 1651496067653,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Audio\\solitaire.effect.pop.mp3"
+  },
+  "0e7db486-841e-4813-b1cf-136122f9813f": {
+    "asset": 1651496022655,
+    "meta": 1651496067659,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Audio\\solitaire.effect.successful.mp3"
+  },
+  "905d32a7-f9d6-4ec2-93c9-6c5a090ce0c3": {
+    "asset": 1651496022656,
+    "meta": 1651496067665,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Audio\\solitaire.effect.undo.mp3"
+  },
+  "469522bf-1931-4056-8879-0b7cc1a73195": {
+    "asset": 1651670284217,
+    "meta": 1651670305026,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas"
+  },
+  "a629c887-c0de-4847-836b-41a2e7263b80": {
+    "asset": 1651496022677,
+    "meta": 1651496067672,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\_AutoAtlas-Solitaire.pac"
+  },
+  "00d95fd9-8f69-4fd3-ad98-2602b3c59bbc": {
+    "asset": 1651670283577,
+    "meta": 1651670305027,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common"
+  },
+  "2bef31d0-d1d7-4ec7-a720-62c948e779f6": {
+    "asset": 1651496022657,
+    "meta": 1651496067684,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Audio\\solitaire.music.default.mp3"
+  },
+  "a1884118-acf5-446b-8873-8d92ac0edec8": {
+    "asset": 1651496022718,
+    "meta": 1651496067688,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\_gf_bg_panel.png"
+  },
+  "c8f8bd84-d55e-45aa-8e1b-8aedfef86dc6": {
+    "asset": 1651496022719,
+    "meta": 1651496067699,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\_gf_img_btn_close.png"
+  },
+  "bf6240ee-deec-417b-b83a-65fd3683975e": {
+    "asset": 1651496022720,
+    "meta": 1651496067709,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\_gf_img_icon_info.png"
+  },
+  "0c402626-7fb5-4085-8d33-6b9fadd8650e": {
+    "asset": 1651496022723,
+    "meta": 1651496067721,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\_gf_img_loading_circle_bg.png"
+  },
+  "8f5d30b4-63d7-4e73-a965-2b80e14effd0": {
+    "asset": 1651496022722,
+    "meta": 1651496067727,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\_gf_img_loading_circle.png"
+  },
+  "f23a0bce-b79a-4e8e-bc09-b63774a1ef8f": {
+    "asset": 1651496022724,
+    "meta": 1651496067734,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\_gf_img_white_2x2.png"
+  },
+  "f48ed41b-8284-4ca5-836c-3af2aa30a6e2": {
+    "asset": 1651496022726,
+    "meta": 1651496067742,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\_gf_loading_bar.png"
+  },
+  "150603cc-8061-46bd-b914-bbc1985b91cf": {
+    "asset": 1651496022728,
+    "meta": 1651496067748,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\_gf_loading_bg.png"
+  },
+  "940d4a69-6f75-4553-9c72-1ba7a5a7ff76": {
+    "asset": 1651496022730,
+    "meta": 1651496067757,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\_gf_loading_layout.png"
+  },
+  "4a5e8b34-9dc5-4bc4-a230-c5cda7187073": {
+    "asset": 1651496022731,
+    "meta": 1651496067769,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\_gf_logo.png"
+  },
+  "b0495f0b-1002-4002-b9c9-9391004e9410": {
+    "asset": 1651496022732,
+    "meta": 1651496067771,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\_gf_tiled_0.png"
+  },
+  "0b3375fd-0f2a-4f2b-85a7-98b4d70dc45e": {
+    "asset": 1651496022714,
+    "meta": 1651496067783,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\c_bg_value.png"
+  },
+  "8ab14d18-a623-4691-b65f-60c66130a2ec": {
+    "asset": 1651496022692,
+    "meta": 1651496067786,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com_bg_coin_0.png"
+  },
+  "48b0251a-eef0-4544-9df1-fce18e44fc44": {
+    "asset": 1651496022693,
+    "meta": 1651496067798,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com_btn_0.png"
+  },
+  "a87a2421-8b76-47a3-ab37-d73f222b7a43": {
+    "asset": 1651496022694,
+    "meta": 1651496067800,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com_btn_close.png"
+  },
+  "a4b31d26-584a-4379-99bd-13c652c73dd6": {
+    "asset": 1651496022695,
+    "meta": 1651496067815,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com_coin_bg_1.png"
+  },
+  "6778c38f-4c7c-44f7-9f3e-8f90dca91cad": {
+    "asset": 1651496022700,
+    "meta": 1651496067830,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com_dot_num_1.png"
+  },
+  "e65c17c6-35d9-4d69-b8ff-6ff921f9d6d2": {
+    "asset": 1651496022698,
+    "meta": 1651496067814,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com_coin_bg_2.png"
+  },
+  "ce352210-fc42-4beb-ba78-53f61e1c8935": {
+    "asset": 1651496022702,
+    "meta": 1651496067845,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com_hint_light.png"
+  },
+  "21c06f23-74ca-4fca-b468-f9076d32ef23": {
+    "asset": 1651496022699,
+    "meta": 1651496067828,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com_dot_number_bg.png"
+  },
+  "4109ba75-f2ff-496b-b0fd-c6ba062021ad": {
+    "asset": 1651496022705,
+    "meta": 1651496067843,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com_icon_back.png"
+  },
+  "db4e45ae-98c9-4385-b59d-54adc95acee5": {
+    "asset": 1651496022706,
+    "meta": 1651496067861,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com_icon_gold.png"
+  },
+  "221d00ea-c799-462d-b8da-5b9241a08305": {
+    "asset": 1651496022707,
+    "meta": 1651496067858,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com_icon_loading_circle.png"
+  },
+  "6b69aa84-2804-424f-ba19-419ecdfdd8a0": {
+    "asset": 1651496022710,
+    "meta": 1651496067874,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com_icon_star_gray.png"
+  },
+  "caa83c25-ba03-4fda-a778-bebbcb84a59f": {
+    "asset": 1651496022712,
+    "meta": 1651496067876,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com_icon_star_large.png"
+  },
+  "4a79900a-fbd2-4cbc-8324-d66d983eb0de": {
+    "asset": 1651496022709,
+    "meta": 1651496067888,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com_icon_star.png"
+  },
+  "734ed157-5d51-486b-b580-3f52cbecf983": {
+    "asset": 1651496022703,
+    "meta": 1651496067890,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com_icons8-delete-bin-48.png"
+  },
+  "85760998-1807-4bad-bab9-883c1c86b161": {
+    "asset": 1651496022713,
+    "meta": 1651496067903,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com_tile_black_title.png"
+  },
+  "0e0f93c0-e0c5-49a5-a5af-f13287626742": {
+    "asset": 1651496022679,
+    "meta": 1651496067905,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com-bg-bar-0.png"
+  },
+  "b7ddb404-554c-44be-953d-a0a10ed30e62": {
+    "asset": 1651496022680,
+    "meta": 1651496067917,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com-bg-green.png"
+  },
+  "87c29b93-88d7-4665-8e2d-46b334f74a05": {
+    "asset": 1651496022682,
+    "meta": 1651496067919,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com-bg-white.png"
+  },
+  "e4d7117d-4ba1-4bbe-9f37-fcd53f66d905": {
+    "asset": 1651496022684,
+    "meta": 1651496067931,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com-element_toggle_bg.png"
+  },
+  "67a388da-1321-4f0a-8544-31533a9aeb19": {
+    "asset": 1651496022689,
+    "meta": 1651496067945,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com-icon_calendar.png"
+  },
+  "20c60c74-7eea-49c5-90b2-d5292cd57129": {
+    "asset": 1651496022683,
+    "meta": 1651496067933,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com-element_toggle.png"
+  },
+  "3fafc535-c60b-405d-b3f9-5d4dfbc09699": {
+    "asset": 1651496022690,
+    "meta": 1651496067949,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com-icon_face.png"
+  },
+  "42e64f0f-449c-4657-bac3-f803ea35be84": {
+    "asset": 1651496022685,
+    "meta": 1651496067961,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com-icon-ad-1.png"
+  },
+  "85c64335-2bc0-4050-b648-d7b11b889692": {
+    "asset": 1651496022687,
+    "meta": 1651496067965,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\com-icon-ad.png"
+  },
+  "99e365c2-1cc7-49ef-9ee6-60c4e1ae14cd": {
+    "asset": 1651670283621,
+    "meta": 1651670305028,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game"
+  },
+  "ac6d240e-e337-45a9-976c-93e1085644ac": {
+    "asset": 1651496022717,
+    "meta": 1651496067983,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\common\\default_poker_back.png"
+  },
+  "18fee5e6-baae-424d-a305-09f0c7b9f2ab": {
+    "asset": 1651496022734,
+    "meta": 1651496067981,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_area_close.png"
+  },
+  "dde50cb6-03cc-4265-80b9-07546af69037": {
+    "asset": 1651496022735,
+    "meta": 1651496067995,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_area_no_click.png"
+  },
+  "dec12e92-ab25-4d67-aae3-2e0ab38c22d5": {
+    "asset": 1651496022737,
+    "meta": 1651496067997,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_area_receive.png"
+  },
+  "29861a50-dd7e-4437-82a7-2da736c8d444": {
+    "asset": 1651496022738,
+    "meta": 1651496068010,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_autoplay_change_speed.png"
+  },
+  "7ab56fad-5730-4e96-89c6-b5b4cd8188ab": {
+    "asset": 1651496022741,
+    "meta": 1651496068025,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_autoplay_pause.png"
+  },
+  "75f2716d-0d23-49af-bb56-c68a71cc0d25": {
+    "asset": 1651496022740,
+    "meta": 1651496068012,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_autoplay_next.png"
+  },
+  "3715479e-3f0e-488c-bb0b-0f5fb88e2062": {
+    "asset": 1651496022742,
+    "meta": 1651496068027,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_autoplay_play.png"
+  },
+  "e9971b7b-3ecb-47be-a1f1-d832d09cc341": {
+    "asset": 1651496022745,
+    "meta": 1651496068042,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_autoplay_step.png"
+  },
+  "cfcf6ee7-7fea-4d53-a64d-dbfa5ac3d555": {
+    "asset": 1651496022747,
+    "meta": 1651496068056,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_icon_magic.png"
+  },
+  "f93b050f-18ba-45b5-83e6-eff03dfde707": {
+    "asset": 1651496022746,
+    "meta": 1651496068041,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_expand.png"
+  },
+  "ea930838-7bbe-4777-9b25-eff682fc6bb2": {
+    "asset": 1651496022749,
+    "meta": 1651496068058,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_menu_help.png"
+  },
+  "e40f025c-5bad-4a8e-b3f8-a01810240e73": {
+    "asset": 1651496022750,
+    "meta": 1651496068071,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_menu_hint.png"
+  },
+  "46398e9e-6d4a-4b49-87fa-e18e8d0878ca": {
+    "asset": 1651496022751,
+    "meta": 1651496068073,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_menu_newgame.png"
+  },
+  "9ef66705-3bca-4c90-a8d9-6235e529a379": {
+    "asset": 1651496022755,
+    "meta": 1651496068085,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_menu_setting_word.png"
+  },
+  "360c1edb-96f9-46a2-a367-a497b8f95121": {
+    "asset": 1651496022753,
+    "meta": 1651496068087,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_menu_setting.png"
+  },
+  "13cddd2f-0536-4a97-83e2-873d57b129be": {
+    "asset": 1651496022756,
+    "meta": 1651496068106,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_menu_themes.png"
+  },
+  "3e8ea9bb-c644-4964-99a0-4da41e7b5f60": {
+    "asset": 1651496022759,
+    "meta": 1651496068119,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_over_win_word_best.png"
+  },
+  "33ad6242-3a6c-4331-9a4c-b9d56d43dd9b": {
+    "asset": 1651496022758,
+    "meta": 1651496068103,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_menu_undo.png"
+  },
+  "1585bcfb-8e4c-48cb-a0ed-e7bc463b0175": {
+    "asset": 1651496022761,
+    "meta": 1651496068121,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_over_win_word_moves.png"
+  },
+  "112f86ea-3669-4ae6-8b46-e4097b473f52": {
+    "asset": 1651496022762,
+    "meta": 1651496068133,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_over_win_word_now.png"
+  },
+  "a723c9d7-7b48-492a-8c76-75a22cd201fa": {
+    "asset": 1651496022763,
+    "meta": 1651496068135,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_over_win_word_score.png"
+  },
+  "852868ec-2e14-40d7-b224-a23fabe275d9": {
+    "asset": 1651496022765,
+    "meta": 1651496068147,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_over_win_word_time.png"
+  },
+  "0699fb12-e6d4-4335-81d0-103ddafbb96b": {
+    "asset": 1651496022766,
+    "meta": 1651496068150,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_word_Auto_Collect.png"
+  },
+  "044077c9-3cbb-4a98-8df2-dc608626d0ad": {
+    "asset": 1651670283654,
+    "meta": 1651670305029,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face"
+  },
+  "a28a0035-5ac3-481a-bd59-4505b090a1b2": {
+    "asset": 1651670283745,
+    "meta": 1651670305031,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point"
+  },
+  "cb84f130-818f-4f4d-87f9-f9d9705baf78": {
+    "asset": 1651496022768,
+    "meta": 1651496068170,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\game\\game_word_no_more_hits_are_possible.png"
+  },
+  "2325c5d0-09be-4072-86c2-bce9c2bd6bd8": {
+    "asset": 1651496022794,
+    "meta": 1651496068173,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_0_0_11.png"
+  },
+  "7decf0a9-1007-41a7-8143-af295de56812": {
+    "asset": 1651496022796,
+    "meta": 1651496068190,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_0_0_12.png"
+  },
+  "c0a36d4b-011c-4693-a690-2429c7db69e4": {
+    "asset": 1651496022797,
+    "meta": 1651496068188,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_0_0_13.png"
+  },
+  "e66ab99a-10ff-41d2-981f-8871e2e6adb6": {
+    "asset": 1651496022799,
+    "meta": 1651496068204,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_0_1_11.png"
+  },
+  "a49ea916-90b5-435e-bf9d-4c5acf161d7e": {
+    "asset": 1651496022802,
+    "meta": 1651496068222,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_0_1_13.png"
+  },
+  "080b3ae1-9913-46b5-9a72-593669a7ba72": {
+    "asset": 1651496022801,
+    "meta": 1651496068206,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_0_1_12.png"
+  },
+  "210a69b5-2a30-4f8a-afd9-a3783cf4b64c": {
+    "asset": 1651496022803,
+    "meta": 1651496068219,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_0_2_11.png"
+  },
+  "fba7b26c-5d90-46dd-850a-0dc44c2337ad": {
+    "asset": 1651496022805,
+    "meta": 1651496068238,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_0_2_12.png"
+  },
+  "1a125bb9-f8f2-4df3-a97d-d0113b65663d": {
+    "asset": 1651496022806,
+    "meta": 1651496068235,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_0_2_13.png"
+  },
+  "faa8df92-d6ae-4bda-9e71-eaadb294bb8b": {
+    "asset": 1651496022807,
+    "meta": 1651496068252,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_0_3_11.png"
+  },
+  "27a01bcb-03ae-4db0-b789-b9059a9d6bdd": {
+    "asset": 1651496022811,
+    "meta": 1651496068268,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_0_3_13.png"
+  },
+  "e32fe4d6-c59f-40c8-9cd3-cac371979c94": {
+    "asset": 1651496022810,
+    "meta": 1651496068255,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_0_3_12.png"
+  },
+  "598d6164-81e0-4be2-bfca-5687db858539": {
+    "asset": 1651496022813,
+    "meta": 1651496068270,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_1_0_11.png"
+  },
+  "d8d90772-5dc5-406f-ae6e-e8d12c17cfec": {
+    "asset": 1651496022814,
+    "meta": 1651496068282,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_1_0_12.png"
+  },
+  "b5d91d17-c25c-40cf-8e20-e35624f38075": {
+    "asset": 1651496022817,
+    "meta": 1651496068297,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_1_1_11.png"
+  },
+  "0f4cc715-16c8-43a3-8c6d-72ffb62dd7c1": {
+    "asset": 1651496022816,
+    "meta": 1651496068284,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_1_0_13.png"
+  },
+  "498b145d-162b-4e35-9597-3c18bef233ee": {
+    "asset": 1651496022819,
+    "meta": 1651496068300,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_1_1_12.png"
+  },
+  "de08699b-11b2-4ec4-9aa6-86ff1db5b3a7": {
+    "asset": 1651496022822,
+    "meta": 1651496068316,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_1_1_13.png"
+  },
+  "e77376cd-07e4-4ea6-8cf7-63d7f42f36fe": {
+    "asset": 1651496022824,
+    "meta": 1651496068314,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_1_2_11.png"
+  },
+  "9c89827a-f31e-4a55-a44a-919b63b3c421": {
+    "asset": 1651496022825,
+    "meta": 1651496068332,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_1_2_12.png"
+  },
+  "6bf2df2f-3aa4-4fa5-815a-2c4b4d531124": {
+    "asset": 1651496022829,
+    "meta": 1651496068345,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_1_3_11.png"
+  },
+  "44c67d30-8d9c-40f2-a863-160dedb68f6d": {
+    "asset": 1651496022827,
+    "meta": 1651496068330,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_1_2_13.png"
+  },
+  "2adc9c63-5caa-45b9-a614-1217359cfacd": {
+    "asset": 1651496022831,
+    "meta": 1651496068360,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_1_3_13.png"
+  },
+  "c60f8553-e292-4677-9c9a-1c6ce23b3e4e": {
+    "asset": 1651496022830,
+    "meta": 1651496068347,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_1_3_12.png"
+  },
+  "fa0f5948-0e37-4713-b25a-767d2e682970": {
+    "asset": 1651496022833,
+    "meta": 1651496068362,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_2_0_11.png"
+  },
+  "9f5eb683-63a8-4a25-98c3-d7bf79a61d76": {
+    "asset": 1651496022834,
+    "meta": 1651496068374,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_2_0_12.png"
+  },
+  "990af7fd-7c93-4ec8-b3d6-21169393d516": {
+    "asset": 1651496022835,
+    "meta": 1651496068376,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_2_0_13.png"
+  },
+  "15c1d15c-9b11-49a8-8950-df95fa8742ad": {
+    "asset": 1651496022838,
+    "meta": 1651496068393,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_2_1_11.png"
+  },
+  "272ea372-f9ca-49d8-bfdc-9269b34b380f": {
+    "asset": 1651496022839,
+    "meta": 1651496068390,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_2_1_12.png"
+  },
+  "a98f7a57-9a4c-4d0c-8159-5f7a07501380": {
+    "asset": 1651496022841,
+    "meta": 1651496068406,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_2_1_13.png"
+  },
+  "5eade03e-aed3-4c39-8fbf-958cd795b64a": {
+    "asset": 1651496022842,
+    "meta": 1651496068407,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_2_2_11.png"
+  },
+  "5c168741-0e3f-4166-b016-7b3530c3ccb7": {
+    "asset": 1651496022843,
+    "meta": 1651496068419,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_2_2_12.png"
+  },
+  "7d6f86fb-3918-4f1b-b1e0-ee6b09c3c318": {
+    "asset": 1651496022845,
+    "meta": 1651496068422,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_2_2_13.png"
+  },
+  "2e4f46f5-2a25-4031-b71f-1d31f42a73c8": {
+    "asset": 1651496022846,
+    "meta": 1651496068435,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_2_3_11.png"
+  },
+  "40507c0c-f0ad-4415-bf17-a4b6d3a303ac": {
+    "asset": 1651496022848,
+    "meta": 1651496068437,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_2_3_12.png"
+  },
+  "756995cc-4506-4e18-be2b-0fd78289d997": {
+    "asset": 1651496022849,
+    "meta": 1651496068449,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_2_3_13.png"
+  },
+  "e6695a27-432a-4fc1-8750-094e083f70eb": {
+    "asset": 1651496022850,
+    "meta": 1651496068451,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_3_0_11.png"
+  },
+  "9c463238-3ed7-42e9-8dee-8d07cde260df": {
+    "asset": 1651496022852,
+    "meta": 1651496068465,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_3_0_12.png"
+  },
+  "548bbe6e-b57e-4b75-af0b-c177446bab2f": {
+    "asset": 1651496022853,
+    "meta": 1651496068463,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_3_0_13.png"
+  },
+  "d30520c7-98a9-4fe6-9312-ad90ad3d1f21": {
+    "asset": 1651496022855,
+    "meta": 1651496068476,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_3_1_11.png"
+  },
+  "7051afe7-3b42-4441-b669-3d7a003a5357": {
+    "asset": 1651496022857,
+    "meta": 1651496068478,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_3_1_12.png"
+  },
+  "71eed261-3cb4-4870-a84f-4549126652de": {
+    "asset": 1651496022858,
+    "meta": 1651496068492,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_3_1_13.png"
+  },
+  "a10f7222-e29b-4f4b-8d42-d407507c5370": {
+    "asset": 1651496022859,
+    "meta": 1651496068490,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_3_2_11.png"
+  },
+  "a682f4fe-7a95-4118-99f6-79daf1868d40": {
+    "asset": 1651496022860,
+    "meta": 1651496068504,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_3_2_12.png"
+  },
+  "59076ff6-d01d-4275-851a-201d26fb13c9": {
+    "asset": 1651496022862,
+    "meta": 1651496068506,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_3_2_13.png"
+  },
+  "73e1508c-8d77-4f1c-a428-ccba6657adb5": {
+    "asset": 1651496022863,
+    "meta": 1651496068517,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_3_3_11.png"
+  },
+  "3c2d6fe8-74e3-4817-bb0b-1e8275f1a6bb": {
+    "asset": 1651496022865,
+    "meta": 1651496068519,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_3_3_12.png"
+  },
+  "03bb2ec4-2a70-49d7-8fed-c6762ff0ad3a": {
+    "asset": 1651496022866,
+    "meta": 1651496068533,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face_point\\p_face_point_3_3_13.png"
+  },
+  "3fdcacd4-b4f9-4044-8bb6-511471ea6d80": {
+    "asset": 1651496022769,
+    "meta": 1651496068534,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face\\p_face_0_0.png"
+  },
+  "7654e1fd-a3da-4109-9a60-7a26d8a3b30f": {
+    "asset": 1651496022771,
+    "meta": 1651496068546,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face\\p_face_0_1.png"
+  },
+  "d98abb82-effc-4552-8608-9cb4dad6ba50": {
+    "asset": 1651496022773,
+    "meta": 1651496068548,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face\\p_face_0_2.png"
+  },
+  "4d604820-9422-403b-8787-2fa2669ae8f6": {
+    "asset": 1651496022774,
+    "meta": 1651496068560,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face\\p_face_0_3.png"
+  },
+  "23f09d63-86c7-43ff-af16-25e2e72288cf": {
+    "asset": 1651496022777,
+    "meta": 1651496068575,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face\\p_face_1_1.png"
+  },
+  "1bf7fbbe-2e77-4836-a644-44b8e94cdb23": {
+    "asset": 1651496022776,
+    "meta": 1651496068562,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face\\p_face_1_0.png"
+  },
+  "c6f79c33-a074-4478-a589-cec922763215": {
+    "asset": 1651496022780,
+    "meta": 1651496068587,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face\\p_face_1_3.png"
+  },
+  "dd5cdbb7-8a4f-4de2-a9ea-c5b5c9498edd": {
+    "asset": 1651496022778,
+    "meta": 1651496068574,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face\\p_face_1_2.png"
+  },
+  "22d8511c-ffb9-4e96-b9b2-ccadbf631ac6": {
+    "asset": 1651496022784,
+    "meta": 1651496068600,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face\\p_face_2_1.png"
+  },
+  "62bf407f-a012-4e06-b344-912fca6b7645": {
+    "asset": 1651496022783,
+    "meta": 1651496068588,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face\\p_face_2_0.png"
+  },
+  "56f288e4-1a4b-49ad-b81d-fd8ddb87c712": {
+    "asset": 1651496022787,
+    "meta": 1651496068617,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face\\p_face_2_3.png"
+  },
+  "98897218-d3e5-44f5-a9e3-99d9d74734f3": {
+    "asset": 1651496022786,
+    "meta": 1651496068602,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face\\p_face_2_2.png"
+  },
+  "f7748281-8887-4b9f-beb0-7fcfd5633f5a": {
+    "asset": 1651496022788,
+    "meta": 1651496068615,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face\\p_face_3_0.png"
+  },
+  "079891c9-2723-4c46-8595-bc63043166d6": {
+    "asset": 1651496022790,
+    "meta": 1651496068633,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face\\p_face_3_1.png"
+  },
+  "063d571f-02b3-4810-9160-abc0eb949419": {
+    "asset": 1651496022793,
+    "meta": 1651496068649,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face\\p_face_3_3.png"
+  },
+  "79661f5d-4324-4478-8fcf-29fc2a7d8399": {
+    "asset": 1651670283963,
+    "meta": 1651670305032,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num"
+  },
+  "7cac08e0-cb60-4661-9bad-b5c9e6d1a09a": {
+    "asset": 1651496022791,
+    "meta": 1651496068631,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_face\\p_face_3_2.png"
+  },
+  "7c534028-c272-4999-8565-7be99d0317ad": {
+    "asset": 1651496022870,
+    "meta": 1651496068662,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_b_10.png"
+  },
+  "ce681508-e54d-457c-833b-beec82ffc350": {
+    "asset": 1651496022869,
+    "meta": 1651496068648,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_b_1.png"
+  },
+  "9dfa616c-581c-4f05-8fc0-6514380ebdb1": {
+    "asset": 1651496022873,
+    "meta": 1651496068680,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_b_12.png"
+  },
+  "195c70b7-4b99-4c97-b1ab-04b038024490": {
+    "asset": 1651496022871,
+    "meta": 1651496068664,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_b_11.png"
+  },
+  "0a6b8f41-f0d0-459e-820c-13dbd9056e25": {
+    "asset": 1651496022874,
+    "meta": 1651496068678,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_b_13.png"
+  },
+  "c4bf941e-b0b7-49a5-8a02-0ac486982f6f": {
+    "asset": 1651496022876,
+    "meta": 1651496068694,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_b_2.png"
+  },
+  "229f2469-e073-40de-a31b-8bfbafab6850": {
+    "asset": 1651496022877,
+    "meta": 1651496068695,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_b_3.png"
+  },
+  "4e6cb36e-c1c1-409b-9e36-97ab717cfdb2": {
+    "asset": 1651496022879,
+    "meta": 1651496068707,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_b_4.png"
+  },
+  "0ad63676-1d54-4248-88d2-23dffd39977d": {
+    "asset": 1651496022880,
+    "meta": 1651496068709,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_b_5.png"
+  },
+  "131a9eb6-e9ce-427e-9814-8358969e5414": {
+    "asset": 1651496022881,
+    "meta": 1651496068722,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_b_6.png"
+  },
+  "23e3999a-79fd-4198-817c-962f3581c5fd": {
+    "asset": 1651496022883,
+    "meta": 1651496068720,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_b_7.png"
+  },
+  "aa798fc6-6686-4e71-998b-e5f4641af8ba": {
+    "asset": 1651496022885,
+    "meta": 1651496068732,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_b_8.png"
+  },
+  "88912992-c6ff-4f0f-a048-a6d8cb57a425": {
+    "asset": 1651496022886,
+    "meta": 1651496068734,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_b_9.png"
+  },
+  "983343b0-59de-4956-8e36-4dae4f1d66be": {
+    "asset": 1651496022887,
+    "meta": 1651496068745,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_r_1.png"
+  },
+  "f8afc99c-e1b2-4c08-a7e6-994108740fd3": {
+    "asset": 1651496022888,
+    "meta": 1651496068747,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_r_10.png"
+  },
+  "638998c1-4494-4c1b-ad2c-8a579f17ce79": {
+    "asset": 1651496022890,
+    "meta": 1651496068760,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_r_11.png"
+  },
+  "a8a28f66-7b6c-4272-a580-f117bc757e0e": {
+    "asset": 1651496022891,
+    "meta": 1651496068759,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_r_12.png"
+  },
+  "6a339886-24db-4bb3-aef6-16fd002d29f1": {
+    "asset": 1651496022893,
+    "meta": 1651496068772,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_r_13.png"
+  },
+  "0ac8ce9e-3d77-4ca5-bb0b-90f5545829fa": {
+    "asset": 1651496022894,
+    "meta": 1651496068774,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_r_2.png"
+  },
+  "f8c7e171-5a63-4142-b3f8-44d256d4e158": {
+    "asset": 1651496022896,
+    "meta": 1651496068785,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_r_3.png"
+  },
+  "6371bcfa-022b-43ef-9b9b-0310eb14cd90": {
+    "asset": 1651496022899,
+    "meta": 1651496068797,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_r_5.png"
+  },
+  "ee763496-5d23-4e4d-b48f-c8c8f3d78c8e": {
+    "asset": 1651496022898,
+    "meta": 1651496068786,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_r_4.png"
+  },
+  "b6826bb6-4f0b-487b-ad8a-dcb595228351": {
+    "asset": 1651496022900,
+    "meta": 1651496068799,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_r_6.png"
+  },
+  "72084e5e-22f0-47ee-a6ac-3060a1271a63": {
+    "asset": 1651496022901,
+    "meta": 1651496068810,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_r_7.png"
+  },
+  "328e4b4a-5a07-450e-bfb4-45d768fc47d4": {
+    "asset": 1651496022902,
+    "meta": 1651496068812,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_r_8.png"
+  },
+  "9aa1fb7f-5e75-4890-b8b3-a297227d0a64": {
+    "asset": 1651496022904,
+    "meta": 1651496068824,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_0_r_9.png"
+  },
+  "ab726719-b00d-47bd-92cf-bef7c43456c7": {
+    "asset": 1651496022906,
+    "meta": 1651496068826,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_b_1.png"
+  },
+  "02a729ef-1d4f-4450-acdc-914ce05fd836": {
+    "asset": 1651496022907,
+    "meta": 1651496068837,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_b_10.png"
+  },
+  "4b2c22dc-a7d9-4f98-966f-ec25270771c0": {
+    "asset": 1651496022908,
+    "meta": 1651496068839,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_b_11.png"
+  },
+  "b00520c8-a4ce-494e-af1e-7f41a8d4f45b": {
+    "asset": 1651496022911,
+    "meta": 1651496068850,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_b_12.png"
+  },
+  "a945b674-f1a7-4092-b5aa-b5faab11a019": {
+    "asset": 1651496022912,
+    "meta": 1651496068852,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_b_13.png"
+  },
+  "6785040a-81b1-4ed6-98d9-19c4c4aa231a": {
+    "asset": 1651496022913,
+    "meta": 1651496068863,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_b_2.png"
+  },
+  "290c572e-b8e0-40e8-9d8e-49f0393903e3": {
+    "asset": 1651496022915,
+    "meta": 1651496068865,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_b_3.png"
+  },
+  "546daae0-47cd-4a44-add4-4459d7d0409d": {
+    "asset": 1651496022916,
+    "meta": 1651496068876,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_b_4.png"
+  },
+  "f4ce53b7-23d1-4970-84ca-43bda8baef9e": {
+    "asset": 1651496022919,
+    "meta": 1651496068891,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_b_6.png"
+  },
+  "d235e6d6-ba66-47b2-b2c0-35f6b5d83164": {
+    "asset": 1651496022917,
+    "meta": 1651496068878,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_b_5.png"
+  },
+  "466c7f6e-2b62-40e2-8f12-4a3a7dd08f8e": {
+    "asset": 1651496022922,
+    "meta": 1651496068903,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_b_8.png"
+  },
+  "a06b1bb9-bd7a-4c6c-be58-7ddbe36162b5": {
+    "asset": 1651496022921,
+    "meta": 1651496068890,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_b_7.png"
+  },
+  "a376034a-7a70-4c87-aad3-1ef9b96acc20": {
+    "asset": 1651496022925,
+    "meta": 1651496068916,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_r_1.png"
+  },
+  "35201d0a-d5a1-41e0-a746-204ed9d0f35d": {
+    "asset": 1651496022923,
+    "meta": 1651496068905,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_b_9.png"
+  },
+  "513d05be-c834-47b0-ab32-e646098ade1c": {
+    "asset": 1651496022926,
+    "meta": 1651496068918,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_r_10.png"
+  },
+  "3d355d15-39b5-441e-956b-bf592ca5c673": {
+    "asset": 1651496022928,
+    "meta": 1651496068929,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_r_11.png"
+  },
+  "27f15d3a-f09a-4e08-8ba3-7e0b65f18aac": {
+    "asset": 1651496022929,
+    "meta": 1651496068931,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_r_12.png"
+  },
+  "8d86390d-f5e7-476b-9e10-e704fe299e4e": {
+    "asset": 1651496022930,
+    "meta": 1651496068942,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_r_13.png"
+  },
+  "eb6b6c5a-021f-4f71-9ec1-8cbde819c228": {
+    "asset": 1651496022932,
+    "meta": 1651496068943,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_r_2.png"
+  },
+  "33428689-465c-402b-8ce0-531b7c86b2de": {
+    "asset": 1651496022933,
+    "meta": 1651496068953,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_r_3.png"
+  },
+  "67bf5697-0163-40d9-b5dc-e4ee7cae6fd8": {
+    "asset": 1651496022936,
+    "meta": 1651496068967,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_r_5.png"
+  },
+  "9082840d-aa59-46be-8097-9fd0616f2be9": {
+    "asset": 1651496022935,
+    "meta": 1651496068955,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_r_4.png"
+  },
+  "562c7705-0870-4bc4-b2d5-7fe630fdc94b": {
+    "asset": 1651496022938,
+    "meta": 1651496068969,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_r_6.png"
+  },
+  "f403911d-89d1-42a1-93e8-933caf455a00": {
+    "asset": 1651496022940,
+    "meta": 1651496068980,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_r_7.png"
+  },
+  "8f332c71-c000-40da-86ab-168545d9f961": {
+    "asset": 1651496022941,
+    "meta": 1651496068982,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_r_8.png"
+  },
+  "cbe1d1ae-d493-4e46-a710-8e637e890bf0": {
+    "asset": 1651496022942,
+    "meta": 1651496068993,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_1_r_9.png"
+  },
+  "e49c3a8b-825b-4fc2-bc41-af4cbe95d290": {
+    "asset": 1651496022943,
+    "meta": 1651496068995,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_b_1.png"
+  },
+  "061abead-d8f3-463b-b962-afee45454489": {
+    "asset": 1651496022945,
+    "meta": 1651496069007,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_b_10.png"
+  },
+  "789215af-3b4d-48bf-a574-2db7e9ce317f": {
+    "asset": 1651496022946,
+    "meta": 1651496069008,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_b_11.png"
+  },
+  "2e5e87fd-f0ac-4cf6-8e50-29010939f912": {
+    "asset": 1651496022948,
+    "meta": 1651496069021,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_b_12.png"
+  },
+  "1ae3244d-9b0a-4f83-9e12-5af2838989db": {
+    "asset": 1651496022949,
+    "meta": 1651496069023,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_b_13.png"
+  },
+  "16fdd998-3d20-41aa-88cc-c113d46205b1": {
+    "asset": 1651496022951,
+    "meta": 1651496069035,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_b_2.png"
+  },
+  "7ff3a61c-18a5-438a-a649-fb8d373d7a5b": {
+    "asset": 1651496022953,
+    "meta": 1651496069037,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_b_3.png"
+  },
+  "7ca0766a-a0e1-43fd-bf0d-8d5a67feeae1": {
+    "asset": 1651496022954,
+    "meta": 1651496069050,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_b_4.png"
+  },
+  "89ac5f03-fa48-4a0f-b686-219633d8f2d7": {
+    "asset": 1651496022955,
+    "meta": 1651496069048,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_b_5.png"
+  },
+  "871ce246-3a6b-4d62-a65b-11992368afdf": {
+    "asset": 1651496022956,
+    "meta": 1651496069064,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_b_6.png"
+  },
+  "4cd95b31-0d18-44ce-b0ef-20550079863e": {
+    "asset": 1651496022958,
+    "meta": 1651496069062,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_b_7.png"
+  },
+  "85ac5f2e-c53f-4351-9bbe-8ae9cf7a7743": {
+    "asset": 1651496022960,
+    "meta": 1651496069075,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_b_8.png"
+  },
+  "c1a52a72-932e-4d83-97cd-28fc2dab3b00": {
+    "asset": 1651496022961,
+    "meta": 1651496069076,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_b_9.png"
+  },
+  "a5505aef-49a9-4019-9a97-7db4e4727e7e": {
+    "asset": 1651496022962,
+    "meta": 1651496069090,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_r_1.png"
+  },
+  "b032b14e-6521-4ec8-a2da-6ba3e7010681": {
+    "asset": 1651496022963,
+    "meta": 1651496069088,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_r_10.png"
+  },
+  "2fa579d6-06c9-4bde-8a25-200ff77b2ad2": {
+    "asset": 1651496022965,
+    "meta": 1651496069104,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_r_11.png"
+  },
+  "fcc3c2b4-6ee7-474d-b8b9-e7e82b6ba891": {
+    "asset": 1651496022967,
+    "meta": 1651496069102,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_r_12.png"
+  },
+  "751ccc28-ac6a-4d2f-a627-c76820e56fdb": {
+    "asset": 1651496022968,
+    "meta": 1651496069118,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_r_13.png"
+  },
+  "6cbe4738-3cfc-49b8-bdcc-8ea5d3f392ee": {
+    "asset": 1651496022970,
+    "meta": 1651496069120,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_r_2.png"
+  },
+  "678f245d-d335-49a5-8cc3-1f24c9c82561": {
+    "asset": 1651496022971,
+    "meta": 1651496069135,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_r_3.png"
+  },
+  "f30f2514-9c51-4059-b019-07ead871b3a3": {
+    "asset": 1651496022974,
+    "meta": 1651496069150,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_r_5.png"
+  },
+  "f8ac7323-c8a2-436d-ac4a-d3dcbca74d5d": {
+    "asset": 1651496022972,
+    "meta": 1651496069133,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_r_4.png"
+  },
+  "85d92c11-06ea-4b8e-a6b0-e6a1a4a7827a": {
+    "asset": 1651496022977,
+    "meta": 1651496069161,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_r_7.png"
+  },
+  "283885cf-59c5-4e0b-9d87-12e9d4df9c9f": {
+    "asset": 1651496022975,
+    "meta": 1651496069147,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_r_6.png"
+  },
+  "cfd124d2-8411-4e3a-9bea-bc21114a9d93": {
+    "asset": 1651496022980,
+    "meta": 1651496069175,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_r_9.png"
+  },
+  "2fc228c9-206a-4518-9beb-c48fc85cb8c7": {
+    "asset": 1651496022978,
+    "meta": 1651496069163,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_2_r_8.png"
+  },
+  "78f432a7-56af-4eef-b3e1-a78c280c3d64": {
+    "asset": 1651496022981,
+    "meta": 1651496069177,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_b_1.png"
+  },
+  "89db39f9-8090-46d2-b704-8223b0e1af95": {
+    "asset": 1651496022983,
+    "meta": 1651496069189,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_b_10.png"
+  },
+  "728a9d2a-5113-44ed-b1b7-00d31ddd9f27": {
+    "asset": 1651496022984,
+    "meta": 1651496069191,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_b_11.png"
+  },
+  "bf2d7820-00cb-480e-9c11-ddea73f4e697": {
+    "asset": 1651496022985,
+    "meta": 1651496069202,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_b_12.png"
+  },
+  "0fd7d1df-e93b-45fe-ad17-ed02e2d258ed": {
+    "asset": 1651496022987,
+    "meta": 1651496069204,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_b_13.png"
+  },
+  "32bf86f5-9075-4fb4-b6b0-a32efec419c3": {
+    "asset": 1651496022988,
+    "meta": 1651496069216,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_b_2.png"
+  },
+  "6cafd1fe-1ad6-47dd-a76c-713ef2075fe1": {
+    "asset": 1651496022991,
+    "meta": 1651496069229,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_b_4.png"
+  },
+  "7c161423-0165-4b73-905d-919f1051d9c5": {
+    "asset": 1651496022989,
+    "meta": 1651496069217,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_b_3.png"
+  },
+  "66c8655b-891a-41f2-a306-5b84d3d866ed": {
+    "asset": 1651496022994,
+    "meta": 1651496069244,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_b_6.png"
+  },
+  "96d61989-a13d-43d5-8403-aabdb08c697b": {
+    "asset": 1651496022992,
+    "meta": 1651496069231,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_b_5.png"
+  },
+  "2310f0c7-6e68-42e5-b894-f820f70eaf0c": {
+    "asset": 1651496022997,
+    "meta": 1651496069256,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_b_8.png"
+  },
+  "41a6e4a8-b071-4320-9e7e-66d0c60cf8a5": {
+    "asset": 1651496022996,
+    "meta": 1651496069243,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_b_7.png"
+  },
+  "e802578b-e4cc-4c5c-a000-f1ec9f7bef15": {
+    "asset": 1651496022999,
+    "meta": 1651496069272,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_r_1.png"
+  },
+  "b6c95aa5-0dbb-4888-b0ab-50e109d09253": {
+    "asset": 1651496022998,
+    "meta": 1651496069258,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_b_9.png"
+  },
+  "f8ea43b5-1e21-46b8-beda-651c723575a6": {
+    "asset": 1651496023002,
+    "meta": 1651496069283,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_r_11.png"
+  },
+  "8061651b-f981-4d84-9cd9-97a2d75359cb": {
+    "asset": 1651496023001,
+    "meta": 1651496069270,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_r_10.png"
+  },
+  "4bcb7a5e-ee9a-4cff-b3b3-13aa3ba822a4": {
+    "asset": 1651496023004,
+    "meta": 1651496069285,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_r_12.png"
+  },
+  "6af6a4f4-36f5-4f4c-a6b0-eb5e8ff498d2": {
+    "asset": 1651496023004,
+    "meta": 1651496069296,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_r_13.png"
+  },
+  "4904824b-c7cc-421e-b138-9b6562f80c3e": {
+    "asset": 1651496023005,
+    "meta": 1651496069298,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_r_2.png"
+  },
+  "bb309771-6b66-4446-9fd3-74e16d0e7be6": {
+    "asset": 1651496023008,
+    "meta": 1651496069311,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_r_3.png"
+  },
+  "9d02bcfc-b8bf-4f93-b26f-dc26b9071d86": {
+    "asset": 1651496023009,
+    "meta": 1651496069313,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_r_4.png"
+  },
+  "7781bb3a-bc90-4ecf-9604-ad4fbde0c22f": {
+    "asset": 1651496023010,
+    "meta": 1651496069325,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_r_5.png"
+  },
+  "27bccc68-3d2a-4c31-b3a9-289ccae64d4a": {
+    "asset": 1651496023011,
+    "meta": 1651496069326,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_r_6.png"
+  },
+  "937a3674-ecad-41f5-8f45-ed2742c1bfa6": {
+    "asset": 1651496023013,
+    "meta": 1651496069337,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_r_7.png"
+  },
+  "940124dd-c42f-407c-8bfa-9695bb2bb5cf": {
+    "asset": 1651496023016,
+    "meta": 1651496069353,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_r_9.png"
+  },
+  "cef32cea-d897-41eb-9e95-a533d75ab3c4": {
+    "asset": 1651670283989,
+    "meta": 1651670305033,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\sudoku"
+  },
+  "05ccfc75-3799-4c7b-a13e-630df2367591": {
+    "asset": 1651496023015,
+    "meta": 1651496069339,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\p_num\\p_num_3_r_8.png"
+  },
+  "3ba8586d-761f-4a7e-83cd-6042ff09a3f0": {
+    "asset": 1651496023019,
+    "meta": 1651496069355,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\sudoku\\c_sudoku_0.png"
+  },
+  "5bcde25e-0dd1-481b-bcdc-72eb7fc6a62b": {
+    "asset": 1651496023020,
+    "meta": 1651496069370,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\sudoku\\c_sudoku_1.png"
+  },
+  "6390df5f-0456-4fe8-9be8-2461630cacf0": {
+    "asset": 1651496023023,
+    "meta": 1651496069368,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\sudoku\\c_sudoku_10.png"
+  },
+  "836d7f29-d60e-4435-b5ec-0b2ca2f6a50b": {
+    "asset": 1651496023024,
+    "meta": 1651496069383,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\sudoku\\c_sudoku_11.png"
+  },
+  "de796f6e-88fb-4629-b9bf-9f8c0c881a4f": {
+    "asset": 1651496023025,
+    "meta": 1651496069385,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\sudoku\\c_sudoku_2.png"
+  },
+  "b410a89a-6aa4-4da1-8a49-64c9b4b524a3": {
+    "asset": 1651496023027,
+    "meta": 1651496069397,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\sudoku\\c_sudoku_3.png"
+  },
+  "c28a2474-5c20-41c3-aa9d-78ce520237a4": {
+    "asset": 1651496023030,
+    "meta": 1651496069411,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\sudoku\\c_sudoku_5.png"
+  },
+  "a232ce04-9f49-4b15-a025-ff6f049bb6e3": {
+    "asset": 1651496023029,
+    "meta": 1651496069399,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\sudoku\\c_sudoku_4.png"
+  },
+  "5afa5d6e-dd40-4532-8c2f-ad5fd44420ed": {
+    "asset": 1651496023031,
+    "meta": 1651496069414,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\sudoku\\c_sudoku_6.png"
+  },
+  "43769012-8ea0-4f05-958d-e0b26db90d17": {
+    "asset": 1651496023033,
+    "meta": 1651496069425,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\sudoku\\c_sudoku_7.png"
+  },
+  "4274fa2f-594e-4baf-8986-3556d99472a3": {
+    "asset": 1651496023036,
+    "meta": 1651496069442,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\sudoku\\c_sudoku_9.png"
+  },
+  "a0cb9337-e7b2-4e9d-8eae-1e3709754cf1": {
+    "asset": 1651496023035,
+    "meta": 1651496069427,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\sudoku\\c_sudoku_8.png"
+  },
+  "f2dd458c-3766-46a2-a6ce-f2c70d872797": {
+    "asset": 1651670284025,
+    "meta": 1651670305034,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_achievement"
+  },
+  "a8027877-d8d6-4645-97a0-52d4a0123dba": {
+    "asset": 1651496023017,
+    "meta": 1651496069439,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\sudoku\\c_sudoku.png"
+  },
+  "a6f65bd9-01cd-4936-9506-c6f74581e36f": {
+    "asset": 1651496023037,
+    "meta": 1651496069454,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_achievement\\ui_achievement_daily_reward_cd.png"
+  },
+  "80b5525c-31d4-47b3-8317-5c364291e757": {
+    "asset": 1651496023040,
+    "meta": 1651496069456,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_achievement\\ui_achievement_daily_reward_gift_collecting.png"
+  },
+  "6bee8aca-ff8e-4975-9fd8-c19fc786360d": {
+    "asset": 1651496023042,
+    "meta": 1651496069470,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_achievement\\ui_achievement_daily_reward_gift_received.png"
+  },
+  "41820598-0c70-4c20-ad69-25caf0a69532": {
+    "asset": 1651496023043,
+    "meta": 1651496069468,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_achievement\\ui_achievement_daily_reward_gift_today_lock.png"
+  },
+  "ed1b8d4f-1b63-4e91-9fc4-0ec71d6ef8c5": {
+    "asset": 1651496023039,
+    "meta": 1651496069481,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_achievement\\ui_achievement_daily_reward_gift.png"
+  },
+  "27cf5489-3884-4980-b7ff-a4390792dc87": {
+    "asset": 1651496023045,
+    "meta": 1651496069483,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_achievement\\ui_achievement_daily_reward_word_collect.png"
+  },
+  "4009c598-9fb3-439f-9cdf-e1f507603139": {
+    "asset": 1651496023046,
+    "meta": 1651496069495,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_achievement\\ui_achievement_daily_reward_word_next_gifts_.png"
+  },
+  "46b404f5-3fa7-427a-aad6-fbabd2601c71": {
+    "asset": 1651496023049,
+    "meta": 1651496069497,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_achievement\\ui_achievement_daily_task_flag_pass.png"
+  },
+  "38b0f46a-b9d0-40d3-830a-af1b0c8d974b": {
+    "asset": 1651496023048,
+    "meta": 1651496069510,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_achievement\\ui_achievement_daily_task_flag.png"
+  },
+  "ae1ea39c-d1d1-47c7-81d5-dd82d04a76ef": {
+    "asset": 1651496023050,
+    "meta": 1651496069508,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_achievement\\ui_achievement_daily_task_icon_gift_black.png"
+  },
+  "ba152758-6dee-412f-8e87-4162bef40af3": {
+    "asset": 1651496023052,
+    "meta": 1651496069522,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_achievement\\ui_achievement_daily_task_progress_bar.png"
+  },
+  "cc3c1a8f-9b42-4dfc-9fbb-71b1ce759ce4": {
+    "asset": 1651496023053,
+    "meta": 1651496069524,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_achievement\\ui_achievement_daily_task_progress_bg.png"
+  },
+  "f4424dee-cdd8-476c-a0aa-121990e3b9f9": {
+    "asset": 1651496023054,
+    "meta": 1651496069536,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_achievement\\ui_achievement_daily_task_refresh.png"
+  },
+  "7198843f-e36f-4d4d-b591-f52419d6dfb5": {
+    "asset": 1651496023056,
+    "meta": 1651496069538,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_achievement\\ui_achievement_daily_task_word_reward.png"
+  },
+  "9b0d7f5e-6530-4adc-afd2-0c91525a01e2": {
+    "asset": 1651496023060,
+    "meta": 1651496069553,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_achievement\\ui_achievement_task_big_gift_bg.png"
+  },
+  "52b49a78-2892-4724-b92e-d591dc45a157": {
+    "asset": 1651496023061,
+    "meta": 1651496069551,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_achievement\\ui_achievement_task_big_gift_lock.png"
+  },
+  "d90d7199-36a6-4a92-8d87-cba7fefc8d66": {
+    "asset": 1651496023057,
+    "meta": 1651496069567,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_achievement\\ui_achievement_task_big_gift.png"
+  },
+  "d26b4f5d-ba98-492b-9168-a8f2345b05ff": {
+    "asset": 1651496023063,
+    "meta": 1651496069565,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_achievement\\ui_achievement_task_progress_bar.png"
+  },
+  "9c52928d-bd24-4e2d-a08a-41f942744be3": {
+    "asset": 1651496023064,
+    "meta": 1651496069579,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_achievement\\ui_achievement_task_progress_bg.png"
+  },
+  "64e2b0f2-029f-412f-aaae-068e20161e16": {
+    "asset": 1651496023067,
+    "meta": 1651496069581,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_achievement\\ui_achievement_task_reward_bg.png"
+  },
+  "57a1db28-4626-419a-8f97-3ee7b651fa7a": {
+    "asset": 1651670284032,
+    "meta": 1651670305035,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_game_over"
+  },
+  "3bc34456-5cc6-4924-8434-429084d9e956": {
+    "asset": 1651496023067,
+    "meta": 1651496069594,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_achievement\\ui_achievement_task_reward_btn.png"
+  },
+  "10e139d3-51de-48ec-abf7-3e10fae4cc68": {
+    "asset": 1651496023072,
+    "meta": 1651496069609,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_game_over\\game_win_board_title.png"
+  },
+  "3d5a9a47-1a44-4b04-98fc-b8667aca225e": {
+    "asset": 1651496023069,
+    "meta": 1651496069607,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_game_over\\bg_game_over.png"
+  },
+  "b52f083e-c2dc-413a-8296-276e64f20537": {
+    "asset": 1651670284040,
+    "meta": 1651670305037,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_gift"
+  },
+  "9110f025-3ff1-4285-8fc0-adeec787a357": {
+    "asset": 1651496023071,
+    "meta": 1651496069625,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_game_over\\game_win_board.png"
+  },
+  "539eeee0-a1e6-468e-8676-2dab5f4d705a": {
+    "asset": 1651496023074,
+    "meta": 1651496069623,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_gift\\ui_gift_item_coins_100.png"
+  },
+  "1ace3138-1217-4b7b-8fbe-c966b418fe16": {
+    "asset": 1651496023078,
+    "meta": 1651496069638,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_gift\\ui_gift_item_skin_bg_patterns.png"
+  },
+  "7e3d3f7f-e0e3-448a-98e1-4452a8ebe850": {
+    "asset": 1651496023075,
+    "meta": 1651496069640,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_gift\\ui_gift_item_skin_bg.png"
+  },
+  "5d847ffc-3225-465f-948c-602d9dcbe545": {
+    "asset": 1651670284069,
+    "meta": 1651670305038,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_setting"
+  },
+  "abcd8ad6-0bda-40ce-9549-b3be749301d5": {
+    "asset": 1651496023079,
+    "meta": 1651496069655,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_gift\\ui_gift_item_skin_card_back.png"
+  },
+  "61a5ec4e-bde7-4868-a117-36b4e4251695": {
+    "asset": 1651496023095,
+    "meta": 1651496069653,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_setting\\ui_setting_icon_achievements.png"
+  },
+  "bb640eba-e2c6-4bd3-88d3-628031028ed5": {
+    "asset": 1651496023096,
+    "meta": 1651496069670,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_setting\\ui_setting_icon_gamecenter.png"
+  },
+  "bc1c95ad-23b2-4056-9733-87ad35b741b5": {
+    "asset": 1651496023098,
+    "meta": 1651496069667,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_setting\\ui_setting_icon_left_handed.png"
+  },
+  "1df8fa61-caaa-4eb0-a0f5-98295e971932": {
+    "asset": 1651496023100,
+    "meta": 1651496069684,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_setting\\ui_setting_icon_vibrate.png"
+  },
+  "81248f39-1e43-427c-8e50-954a9b60df7e": {
+    "asset": 1651496023081,
+    "meta": 1651496069682,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_setting\\ui_setting-icon-howtoplay.png"
+  },
+  "c7f48208-9bea-4b4e-a745-f51e6cd5b1f8": {
+    "asset": 1651496023082,
+    "meta": 1651496069697,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_setting\\ui_setting-icon-music.png"
+  },
+  "d382619b-a590-46dd-a10d-bc3b78e28823": {
+    "asset": 1651496023085,
+    "meta": 1651496069713,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_setting\\ui_setting-icon-remove-ads.png"
+  },
+  "034b1f75-408e-453e-ad1e-3feb9bc6e1bb": {
+    "asset": 1651496023084,
+    "meta": 1651496069695,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_setting\\ui_setting-icon-rate-the-game.png"
+  },
+  "6b0bef97-eb9a-41c0-81f9-dd185d5abde3": {
+    "asset": 1651496023088,
+    "meta": 1651496069725,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_setting\\ui_setting-icon-statistics.png"
+  },
+  "492cf233-1ca9-49ff-9746-33b3f50e743d": {
+    "asset": 1651496023087,
+    "meta": 1651496069710,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_setting\\ui_setting-icon-sound.png"
+  },
+  "42886429-37f7-4470-b7fc-7e5d2a65b59d": {
+    "asset": 1651496023090,
+    "meta": 1651496069727,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_setting\\ui_setting-option-expand.png"
+  },
+  "ac2df51f-fb3f-4c03-85a7-c28c5343dd32": {
+    "asset": 1651496023092,
+    "meta": 1651496069744,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_setting\\ui_setting-toggle-off.png"
+  },
+  "088f72d1-6ee1-4374-949d-77d10956131c": {
+    "asset": 1651496023093,
+    "meta": 1651496069742,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_setting\\ui_setting-toggle-on.png"
+  },
+  "61d992e3-70ee-476e-98f9-a8d080a9d1d2": {
+    "asset": 1651670284115,
+    "meta": 1651670305039,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start"
+  },
+  "2364e83a-7e8b-4ab2-9919-9f74a2f7543e": {
+    "asset": 1651496023094,
+    "meta": 1651496069758,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_setting\\ui_setting-toggle.png"
+  },
+  "da5cbd83-4662-4abb-93c7-599aa2c7b13a": {
+    "asset": 1651496023103,
+    "meta": 1651496069773,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_btn_ad_invalid.png"
+  },
+  "c2153c3c-7fa6-4359-818b-6eddf0d91b90": {
+    "asset": 1651496023101,
+    "meta": 1651496069771,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_bg_circle.png"
+  },
+  "2d6fb71d-6b8a-46e1-969a-56580b147560": {
+    "asset": 1651496023105,
+    "meta": 1651496069791,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_btn_ad_no_network.png"
+  },
+  "7e65109d-dbd5-4c51-9d2b-003756f611c0": {
+    "asset": 1651496023106,
+    "meta": 1651496069789,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_btn_ad_valid.png"
+  },
+  "ef5a7e15-8f16-4ce2-8194-e0e87a141706": {
+    "asset": 1651496023107,
+    "meta": 1651496069806,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_btn_bg.png"
+  },
+  "c2c2f0c1-bcd4-4b1e-b269-a8ba6afa3eb6": {
+    "asset": 1651496023109,
+    "meta": 1651496069804,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_icon_setting.png"
+  },
+  "e0798b8a-b28c-4cdf-b2ab-d15fe03199bd": {
+    "asset": 1651496023110,
+    "meta": 1651496069818,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_icon_statistics.png"
+  },
+  "1b409bd0-0d9d-4b03-8ff0-304dfd53f3f2": {
+    "asset": 1651496023111,
+    "meta": 1651496069820,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_icon_themes.png"
+  },
+  "722a7ca6-5145-42ae-92e1-f4908ec030b5": {
+    "asset": 1651496023113,
+    "meta": 1651496069832,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_play_btn_easy.png"
+  },
+  "f3b93dd8-ac87-42d5-80c6-f32d9e5f0be4": {
+    "asset": 1651496023115,
+    "meta": 1651496069834,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_play_btn_hard.png"
+  },
+  "9a74d170-9acf-4d5c-a30d-0c2b47b32898": {
+    "asset": 1651496023116,
+    "meta": 1651496069845,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_play_btn_seed.png"
+  },
+  "c2fc9387-db66-4ce6-8493-728d9fb3efd4": {
+    "asset": 1651496023118,
+    "meta": 1651496069847,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_play_card_1.png"
+  },
+  "5f92ae0d-f15b-4014-ae13-437c81046c6b": {
+    "asset": 1651496023120,
+    "meta": 1651496069858,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_play_card_3.png"
+  },
+  "6c793c46-6c0d-447a-9b9a-b095927beec2": {
+    "asset": 1651496023122,
+    "meta": 1651496069873,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_play_resume.png"
+  },
+  "7df3f407-607d-4147-a16b-b1f73e55ae6e": {
+    "asset": 1651496023121,
+    "meta": 1651496069860,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_play_icon.png"
+  },
+  "a4e1c16e-8736-4e44-a38d-0d90f7c97634": {
+    "asset": 1651496023124,
+    "meta": 1651496069871,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_word_normal.png"
+  },
+  "0ef910eb-1ee6-4b07-8dfc-911f07610038": {
+    "asset": 1651496023126,
+    "meta": 1651496069886,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_word_options.png"
+  },
+  "f3f257e0-6457-484b-80ef-e002611afffb": {
+    "asset": 1651496023127,
+    "meta": 1651496069884,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_word_play.png"
+  },
+  "f25de620-f13c-4341-b677-7ad05eb0edb1": {
+    "asset": 1651496023128,
+    "meta": 1651496069899,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_word_resume.png"
+  },
+  "332c314e-dda3-42f0-bb2f-51b4dec7e612": {
+    "asset": 1651496023129,
+    "meta": 1651496069901,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_word_score.png"
+  },
+  "186f235f-153e-438b-bb37-1915aeb09f99": {
+    "asset": 1651496023131,
+    "meta": 1651496069913,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_word_statistics.png"
+  },
+  "a49fac72-438d-4ff5-8ab4-2570ff9d825c": {
+    "asset": 1651496023134,
+    "meta": 1651496069928,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_word_vegas.png"
+  },
+  "fdad06c5-44db-4052-8a34-d5120e80dc52": {
+    "asset": 1651670284154,
+    "meta": 1651670305040,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_statistics"
+  },
+  "ad89bcbc-6135-4c88-bc89-1ff5644e8a56": {
+    "asset": 1651496023133,
+    "meta": 1651496069915,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_start\\ui_start_word_themes.png"
+  },
+  "26bcb088-7951-42c7-9bdd-0492f2e593e8": {
+    "asset": 1651496023136,
+    "meta": 1651496069926,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_statistics\\ui_statistics_icon_average_number_of_moves.png"
+  },
+  "213ec9cd-7bdb-4846-989e-114320dde27d": {
+    "asset": 1651496023137,
+    "meta": 1651496069939,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_statistics\\ui_statistics_icon_best_time.png"
+  },
+  "bcb0ab6d-7995-45ed-b14a-562c319a5813": {
+    "asset": 1651496023139,
+    "meta": 1651496069941,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_statistics\\ui_statistics_icon_clock.png"
+  },
+  "fee8d112-0043-4966-b156-55b6410985a2": {
+    "asset": 1651496023140,
+    "meta": 1651496069953,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_statistics\\ui_statistics_icon_high_number_of_moves.png"
+  },
+  "a1fb0b0b-9f11-488d-9f1c-e53929cd0f36": {
+    "asset": 1651496023143,
+    "meta": 1651496069967,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_statistics\\ui_statistics_icon_lowest_number_of_moves.png"
+  },
+  "c1ea5a39-b995-4854-9700-5ca1ac96be3d": {
+    "asset": 1651496023142,
+    "meta": 1651496069954,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_statistics\\ui_statistics_icon_high_score.png"
+  },
+  "1dfb791e-2056-44e8-af03-0358f643841d": {
+    "asset": 1651496023145,
+    "meta": 1651496069966,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_statistics\\ui_statistics_icon_win_cup.png"
+  },
+  "28ebe044-7e6e-4a21-8470-a7772c74bc38": {
+    "asset": 1651496023147,
+    "meta": 1651496069979,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_statistics\\ui_statistics_img_dot_normal.png"
+  },
+  "b96efa30-2f25-43f1-b874-529c5bf80924": {
+    "asset": 1651496023148,
+    "meta": 1651496069981,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_statistics\\ui_statistics_img_dot_select.png"
+  },
+  "730f032a-518a-418a-980a-5173a9c69463": {
+    "asset": 1651496023149,
+    "meta": 1651496069993,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_statistics\\ui_statistics_img_headline_button.png"
+  },
+  "4ab48635-6d7b-4e9e-807d-74f16bf3cf74": {
+    "asset": 1651496023152,
+    "meta": 1651496070006,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_statistics\\ui_statistics_img_progress_circle_bar.png"
+  },
+  "6557b67e-7905-43ef-a734-01020c114d1e": {
+    "asset": 1651496023151,
+    "meta": 1651496069995,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_statistics\\ui_statistics_img_progress_bg.png"
+  },
+  "4a2c74b1-18e4-4abc-80ab-dfafc50ab73e": {
+    "asset": 1651496023155,
+    "meta": 1651496070020,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_statistics\\ui_statistics_word_average_game_time.png"
+  },
+  "3302100a-a306-46d7-b768-418e3cec1ae4": {
+    "asset": 1651496023154,
+    "meta": 1651496070008,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_statistics\\ui_statistics_img_progress_circle_bg.png"
+  },
+  "116ad820-8249-4ba9-b82f-b6e556241639": {
+    "asset": 1651496023156,
+    "meta": 1651496070021,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_statistics\\ui_statistics_word_average_number_of_moves.png"
+  },
+  "5ee1f52a-c882-4f28-b7e4-acee3ef2bbd5": {
+    "asset": 1651496023158,
+    "meta": 1651496070035,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_statistics\\ui_statistics_word_best_time.png"
+  },
+  "74ef1534-84df-49dc-8578-5562468614c1": {
+    "asset": 1651496023161,
+    "meta": 1651496070033,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_statistics\\ui_statistics_word_high_score.png"
+  },
+  "1687715a-c23a-4ff0-ad20-1602bc6f5d9c": {
+    "asset": 1651496023160,
+    "meta": 1651496070046,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_statistics\\ui_statistics_word_highest_number_of_moves.png"
+  },
+  "955a84c3-42a1-4f1c-99f2-9ab98fc255b9": {
+    "asset": 1651496023163,
+    "meta": 1651496070048,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_statistics\\ui_statistics_word_lowest_number_of_moves.png"
+  },
+  "53c48622-8b49-4673-bb2d-2b07a7c88f5b": {
+    "asset": 1651496023164,
+    "meta": 1651496070059,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_statistics\\ui_statistics_word_reset.png"
+  },
+  "434a77bd-200c-46a8-922a-cbc4122a0352": {
+    "asset": 1651670284215,
+    "meta": 1651670305041,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes"
+  },
+  "9db87230-fd14-4973-9318-f210334a1710": {
+    "asset": 1651496023167,
+    "meta": 1651496070074,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_bg_bottom.png"
+  },
+  "c38fae6f-0be9-476b-bc69-cd569afdcf77": {
+    "asset": 1651496023165,
+    "meta": 1651496070062,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_statistics\\ui_statistics_word_won_games.png"
+  },
+  "89222a14-eb4f-4b34-906c-c621a1cb7c51": {
+    "asset": 1651496023168,
+    "meta": 1651496070075,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_icon_edit.png"
+  },
+  "21bb3170-b531-4481-bf63-1ee882e4072a": {
+    "asset": 1651496023170,
+    "meta": 1651496070089,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_icon_menu_boards_normal.png"
+  },
+  "0ee2095c-fea7-4a87-abb9-e7399041eb1f": {
+    "asset": 1651496023171,
+    "meta": 1651496070087,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_icon_menu_boards_select.png"
+  },
+  "96c959e2-4a99-49b3-8b07-df80d3e8c702": {
+    "asset": 1651496023173,
+    "meta": 1651496070100,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_icon_menu_cardback_normal.png"
+  },
+  "a8216ffa-20a5-48e0-b31a-710a3ef6dfa1": {
+    "asset": 1651496023175,
+    "meta": 1651496070102,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_icon_menu_cardback_select.png"
+  },
+  "56363a2b-8940-4b95-88ef-1293cda982be": {
+    "asset": 1651496023176,
+    "meta": 1651496070117,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_icon_menu_cardface_normal.png"
+  },
+  "6a5c5eee-444b-40e2-b7ac-262aaeea2aa4": {
+    "asset": 1651496023177,
+    "meta": 1651496070119,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_icon_menu_cardface_select.png"
+  },
+  "43ffce79-0a0e-4d1f-978a-04a50f3225a1": {
+    "asset": 1651496023178,
+    "meta": 1651496070131,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_icon_menu_music_normal.png"
+  },
+  "44ebc1e8-79e1-4e0e-8cbd-8b96fde63be9": {
+    "asset": 1651496023180,
+    "meta": 1651496070133,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_icon_menu_music_select.png"
+  },
+  "0165e69e-84fb-4e26-92d2-83f3c4cda1ef": {
+    "asset": 1651496023181,
+    "meta": 1651496070144,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_icon_no_music.png"
+  },
+  "2884c4b4-a5f7-4df8-b4ef-b7ce52e8062a": {
+    "asset": 1651496023183,
+    "meta": 1651496070146,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_icon_random_switch.png"
+  },
+  "7965c9f9-5695-416d-827f-c69ea8f20dec": {
+    "asset": 1651496023184,
+    "meta": 1651496070158,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_icon_status_checked.png"
+  },
+  "57b6c9fa-89eb-4ff4-b2dd-e50bda8875a3": {
+    "asset": 1651496023187,
+    "meta": 1651496070169,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_icon_status_watch_ad.png"
+  },
+  "2fdd8e11-3920-4cf2-9c4e-3bd35f9aef19": {
+    "asset": 1651496023185,
+    "meta": 1651496070156,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_icon_status_lock.png"
+  },
+  "541cec16-4cbc-4481-abd2-bbd17c7d5ff2": {
+    "asset": 1651496023189,
+    "meta": 1651496070171,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_img_line.png"
+  },
+  "963088b5-255f-408e-95a3-35a381f6de3f": {
+    "asset": 1651496023190,
+    "meta": 1651496070182,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_img_mask.png"
+  },
+  "11b82ffc-541e-485e-8049-bf1f6f209090": {
+    "asset": 1651496023192,
+    "meta": 1651496070184,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_img_no_patterns.png"
+  },
+  "c8a80caf-6247-43f2-8c10-73ab26e73390": {
+    "asset": 1651496023193,
+    "meta": 1651496070197,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_img_selected.png"
+  },
+  "5c210cc2-f131-4636-b3b4-2cfc189e450d": {
+    "asset": 1651496023194,
+    "meta": 1651496070195,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_menu_boards_img_patterns_background.png"
+  },
+  "33b7cf48-9984-45e6-baf0-d7f9cf803a75": {
+    "asset": 1651496023196,
+    "meta": 1651496070208,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_menu_boards_word_gackground_colors.png"
+  },
+  "2bf41ffe-fa55-48bb-8686-579f178f8587": {
+    "asset": 1651496023198,
+    "meta": 1651496070210,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_menu_boards_word_patterns.png"
+  },
+  "8b4bdfab-d33b-4c0f-8597-219a11fe2aaf": {
+    "asset": 1651496023199,
+    "meta": 1651496070222,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_menu_music_background.png"
+  },
+  "d02bb50b-8ffe-453c-a7ed-dba19b99217c": {
+    "asset": 1651496023200,
+    "meta": 1651496070224,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_menu_music_select.png"
+  },
+  "5f4c611f-8809-4fa4-a279-0859370ceb8d": {
+    "asset": 1651496023202,
+    "meta": 1651496070237,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_menu_music_word_music_collection.png"
+  },
+  "ca8c554d-45dd-46cd-9ce8-ea4ea07d5914": {
+    "asset": 1651496023203,
+    "meta": 1651496070238,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_menu_pokerback_word_card_collection.png"
+  },
+  "38c719c4-b1e2-46a0-a829-cf018b3aa227": {
+    "asset": 1651496023205,
+    "meta": 1651496070250,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_menu_pokerface_word_card_face_collection.png"
+  },
+  "1afda253-0c10-4bf9-95e0-3e9f385ac5ab": {
+    "asset": 1651496023206,
+    "meta": 1651496070252,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_menu_pokerface_word_unlocked_fronts.png"
+  },
+  "2562e315-e5f2-4c96-b6b5-9b74b9be8cfa": {
+    "asset": 1651496023207,
+    "meta": 1651496070263,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_word_save.png"
+  },
+  "dc0f5cb2-bed3-4f1d-a919-f4e686af8020": {
+    "asset": 1651670284226,
+    "meta": 1651670305043,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Json"
+  },
+  "42bf82cc-e69d-492c-81d1-79658f09dac4": {
+    "asset": 1651496023211,
+    "meta": 1651496070270,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Json\\level_0_0.json"
+  },
+  "d6977c84-ba84-49de-a60a-2e8fdafc7114": {
+    "asset": 1651496023212,
+    "meta": 1651496070273,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Json\\level_0_1.json"
+  },
+  "b9920a5f-7507-43d8-b9be-d19ed6ad4a0c": {
+    "asset": 1651496023213,
+    "meta": 1651496070275,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Json\\level_1_0.json"
+  },
+  "7095278f-7deb-4881-88a3-836221b649af": {
+    "asset": 1651496023214,
+    "meta": 1651496070279,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Json\\level_1_1.json"
+  },
+  "edf543c4-e9fc-4222-9876-9e768ef45ca8": {
+    "asset": 1651670284229,
+    "meta": 1651670305044,
+    "relativePath": "GameBundles\\Solitaire\\Res\\LangJson"
+  },
+  "d197e3b0-ae23-4323-a842-00fae9a9f210": {
+    "asset": 1651496023209,
+    "meta": 1651496070267,
+    "relativePath": "GameBundles\\Solitaire\\Res\\AutoAtlas\\ui_themes\\ui_themes_word_themes.png"
+  },
+  "333993d9-5ec7-43c4-9db9-0e3dfdc264e8": {
+    "asset": 1651670284312,
+    "meta": 1651670305045,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab"
+  },
+  "c3b013d4-227c-4f47-94c7-9245dcf47a34": {
+    "asset": 1651670284310,
+    "meta": 1651670305046,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\_p"
+  },
+  "434f7092-dcae-47e8-a636-beac21965804": {
+    "asset": 1651496023217,
+    "meta": 1651496070284,
+    "relativePath": "GameBundles\\Solitaire\\Res\\LangJson\\SolitaireLang.json"
+  },
+  "89097312-6a82-492c-a951-b69ca2915072": {
+    "asset": 1651496023280,
+    "meta": 1651496070287,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\_p\\LoadingADUIPanel.prefab"
+  },
+  "b1911a88-737c-4845-9a2e-f549fb026f83": {
+    "asset": 1651555690217,
+    "meta": 1651555690232,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\_p\\SolitaireUICoin.prefab"
+  },
+  "5f19b6b5-7070-420a-a9d9-950626e3e0bf": {
+    "asset": 1651547310466,
+    "meta": 1651547310489,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\_p\\SolitaireUICoinLabel.prefab"
+  },
+  "e8a16754-0b48-40c0-b885-bf655387cb0d": {
+    "asset": 1651670284253,
+    "meta": 1651670305047,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Game"
+  },
+  "0b7e9d6e-22b7-4ee7-bbd1-9b8a1ff421cb": {
+    "asset": 1651496023230,
+    "meta": 1651496070295,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\_UIPanelTemplate.prefab"
+  },
+  "9f17e968-998d-48c0-8d08-9e73071e2448": {
+    "asset": 1651496023233,
+    "meta": 1651496070301,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Game\\SolitaireGameDesktopUI.prefab"
+  },
+  "4ca7268d-af58-4bb6-b131-e4d6a572f3df": {
+    "asset": 1651677588366,
+    "meta": 1651677588418,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Game\\SolitaireGameBottomMenuUI.prefab"
+  },
+  "042d1c97-3cc8-4aef-bba8-05d87bdd556a": {
+    "asset": 1651543566357,
+    "meta": 1651543566372,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Game\\SolitaireGameTopInfoUI.prefab"
+  },
+  "9748212d-18f4-4de8-b625-aecda1a7a1f1": {
+    "asset": 1651496023235,
+    "meta": 1651496070311,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Game\\SolitaireGameUIPanel.prefab"
+  },
+  "a0f80184-2df4-4bf0-9f59-4f0a0c817aaf": {
+    "asset": 1651496023237,
+    "meta": 1651496070314,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Game\\SolitairePokerDisplayUI.prefab"
+  },
+  "cf00932c-68e0-4771-9857-6cd04c4509de": {
+    "asset": 1651674865207,
+    "meta": 1651674865222,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Game\\UIGameWin.prefab"
+  },
+  "00ef3cfe-8cf8-402a-bf9b-268e66d331e2": {
+    "asset": 1651496023241,
+    "meta": 1651496070325,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Game\\UIHint.prefab"
+  },
+  "96bb9dbe-28d1-4c56-a5d3-9bfacd00616b": {
+    "asset": 1651496023242,
+    "meta": 1651496070328,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Game\\UIHintMgr.prefab"
+  },
+  "abee2f7f-8e4f-4e3b-866d-3b926ac91037": {
+    "asset": 1651496023246,
+    "meta": 1651496070330,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Game\\UIPoker.prefab"
+  },
+  "0f4909c7-8e1b-4e9d-a651-ea4ba6569f26": {
+    "asset": 1651670284256,
+    "meta": 1651670305049,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\HowToPlay"
+  },
+  "2252faee-7836-47f7-b0d7-9769a578b1ed": {
+    "asset": 1651670284259,
+    "meta": 1651670305050,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Menu"
+  },
+  "9f471067-de0c-484f-af76-d2aebdb42359": {
+    "asset": 1651670284264,
+    "meta": 1651670305051,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Options"
+  },
+  "89422721-2bc6-430b-96f5-92733c2baf15": {
+    "asset": 1651670284269,
+    "meta": 1651670305052,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Seed"
+  },
+  "70a330a3-1933-420b-b4d9-7b47ce71db08": {
+    "asset": 1651496023252,
+    "meta": 1651496070356,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Seed\\SolitaireSeedListItemUI.prefab"
+  },
+  "28acc596-30d9-4960-8821-ba1479d90678": {
+    "asset": 1651496023254,
+    "meta": 1651496070368,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Seed\\SolitaireSeedListUIPanel.prefab"
+  },
+  "e19acb82-dd67-434e-8381-34c5a1500b9f": {
+    "asset": 1651670284274,
+    "meta": 1651670305054,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Statistics"
+  },
+  "c2cdcb2c-0a19-4b30-9449-ccc0ea130c04": {
+    "asset": 1651670284303,
+    "meta": 1651670305055,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Themes"
+  },
+  "99f62087-42de-417c-b6d1-9d5d77105e81": {
+    "asset": 1651496023260,
+    "meta": 1651496070383,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Themes\\SolitaireThemesContentsUI.prefab"
+  },
+  "d7930623-9f8d-4af9-ad8a-db73eb8d57d1": {
+    "asset": 1651496023258,
+    "meta": 1651496070380,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Statistics\\UIStatisticsPage.prefab"
+  },
+  "b19e5b97-49a4-412a-aeea-38bca2155b39": {
+    "asset": 1651496023261,
+    "meta": 1651496070386,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Themes\\SolitaireThemesEffectColumnUI.prefab"
+  },
+  "46716408-38b7-4571-a211-0b8401f94786": {
+    "asset": 1651496023262,
+    "meta": 1651496070389,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Themes\\SolitaireThemesEffectUI.prefab"
+  },
+  "e45914fc-84cb-4aad-b236-7e23d287b73c": {
+    "asset": 1651496023263,
+    "meta": 1651496070393,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Themes\\SolitaireThemesSelfSkinItemUI.prefab"
+  },
+  "5c948f74-92e9-419e-8a74-b389d8a86f1b": {
+    "asset": 1651496023265,
+    "meta": 1651496070396,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Themes\\SolitaireThemesSelfSkinUI.prefab"
+  },
+  "09756d95-6aed-45c5-90b3-e956ea63cb45": {
+    "asset": 1651496023266,
+    "meta": 1651496070399,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Themes\\SolitaireThemesUIPanel.prefab"
+  },
+  "f6b95986-a2c3-48a2-ae5e-857bba234052": {
+    "asset": 1651496023268,
+    "meta": 1651496070402,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Themes\\UIThemeMenuContentBoards.prefab"
+  },
+  "0c12a17a-7fcd-42a2-8e58-cf107c647d35": {
+    "asset": 1651496023269,
+    "meta": 1651496070405,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Themes\\UIThemeMenuContentBoardsBackgroundColorItem.prefab"
+  },
+  "bde88e44-b4ae-413a-9ce2-35585fbd8a36": {
+    "asset": 1651496023270,
+    "meta": 1651496070408,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Themes\\UIThemeMenuContentBoardsPatternItem.prefab"
+  },
+  "05816920-1856-45f0-8369-1c589790b46f": {
+    "asset": 1651496023273,
+    "meta": 1651496070412,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Themes\\UIThemeMenuContentPokerBack.prefab"
+  },
+  "8ee0edb6-b9c3-4b5c-a52a-13210b049800": {
+    "asset": 1651496023274,
+    "meta": 1651496070414,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Themes\\UIThemeMenuContentPokerBackKindItem.prefab"
+  },
+  "3c2efa1b-df91-4fdc-b39a-70c65f7a6243": {
+    "asset": 1651496023276,
+    "meta": 1651496070417,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Themes\\UIThemeMenuContentPokerBackKindSubItem.prefab"
+  },
+  "69d11a90-270c-4e6d-9106-56146867a535": {
+    "asset": 1651496023277,
+    "meta": 1651496070420,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Themes\\UIThemeMenuContentPokerFace.prefab"
+  },
+  "5dcecb2c-5a62-4854-8dd5-aa22f86378c3": {
+    "asset": 1651670284647,
+    "meta": 1651670305056,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame"
+  },
+  "7b81d4e8-ec84-4716-968d-500ac1d78a54": {
+    "asset": 1651670284335,
+    "meta": 1651670305057,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\how_to_play"
+  },
+  "068f58a1-70d7-4221-88d1-485d190dbbd6": {
+    "asset": 1651496023279,
+    "meta": 1651496070426,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Themes\\UIThemeMenuContentPokerFaceItem.prefab"
+  },
+  "0c778c64-87ee-4db7-af39-81eef4464af1": {
+    "asset": 1651496023297,
+    "meta": 1651496070443,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\how_to_play\\so_pic_hint_0.png"
+  },
+  "2ca1229f-c91d-4981-92e6-186ebd412d40": {
+    "asset": 1651496023298,
+    "meta": 1651496070451,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\how_to_play\\so_pic_hint_1.png"
+  },
+  "407ad695-6b6f-46c5-8580-07fc8039bdd3": {
+    "asset": 1651496023300,
+    "meta": 1651496070468,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\how_to_play\\so_pic_hint_2.png"
+  },
+  "4d0727a1-041d-4a3c-ad3a-5d767aa713e3": {
+    "asset": 1651496023301,
+    "meta": 1651496070481,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\how_to_play\\so_pic_hint_3.png"
+  },
+  "900be1d4-e11f-4009-804d-3fea0486de2d": {
+    "asset": 1651496023302,
+    "meta": 1651496070491,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\how_to_play\\so_pic_hint_4.png"
+  },
+  "9b2d3a28-3174-4d5d-8fd4-3161a80070f3": {
+    "asset": 1651496023304,
+    "meta": 1651496070506,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\how_to_play\\so_pic_hint_5.png"
+  },
+  "1864b532-6eb8-48ef-b495-c068baaa0a1b": {
+    "asset": 1651670284526,
+    "meta": 1651670305059,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg"
+  },
+  "bddf52ab-7843-4d0e-98a9-5e5fd27d5293": {
+    "asset": 1651496023310,
+    "meta": 1651496070535,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_animals_0.png"
+  },
+  "ac50f8cf-5c02-4617-92c9-b93b3ab97288": {
+    "asset": 1651496023311,
+    "meta": 1651496070550,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_animals_1.png"
+  },
+  "89751475-c3e3-4b2e-aac0-7407209cf91b": {
+    "asset": 1651496023313,
+    "meta": 1651496070552,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_animals_2.png"
+  },
+  "7cbd22b2-db2c-4cb6-8863-574f42b563b9": {
+    "asset": 1651496023314,
+    "meta": 1651496070567,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_animals_3.png"
+  },
+  "c8cc4f08-3dea-41fa-817d-456835deaea0": {
+    "asset": 1651496023315,
+    "meta": 1651496070569,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_animals_4.png"
+  },
+  "960b65de-7c99-458c-b124-431e42bf4d11": {
+    "asset": 1651496023317,
+    "meta": 1651496070584,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_animals_5.png"
+  },
+  "5b490b6d-563e-44d6-8415-b40f23807fd7": {
+    "asset": 1651496023320,
+    "meta": 1651496070603,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_animals_7.png"
+  },
+  "15ae274b-71c1-4ba5-b53d-841d061a30a9": {
+    "asset": 1651496023318,
+    "meta": 1651496070587,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_animals_6.png"
+  },
+  "a76d826b-b6ab-44a4-ac40-5aea8d075e0f": {
+    "asset": 1651496023321,
+    "meta": 1651496070605,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_animals_8.png"
+  },
+  "329d0900-a467-44f0-a971-9c985fc12537": {
+    "asset": 1651496023322,
+    "meta": 1651496070619,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_animals_9.png"
+  },
+  "2cb5485f-eda1-435b-a125-d5159a0619d3": {
+    "asset": 1651496023325,
+    "meta": 1651496070636,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_artistic_1.png"
+  },
+  "cb276131-0f03-470c-a1ff-11536fa55a99": {
+    "asset": 1651496023324,
+    "meta": 1651496070621,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_artistic_0.png"
+  },
+  "6f34a86d-3ff1-43c9-afc8-9298851a9f20": {
+    "asset": 1651496023328,
+    "meta": 1651496070639,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_artistic_2.png"
+  },
+  "88c206da-c773-489e-bd3a-2875c29f821b": {
+    "asset": 1651496023329,
+    "meta": 1651496070655,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_artistic_3.png"
+  },
+  "9650b61b-56be-4011-89a2-69b3c0bff6e2": {
+    "asset": 1651496023330,
+    "meta": 1651496070657,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_artistic_4.png"
+  },
+  "b5c4d0f6-5997-4bba-82f7-3caa9ae3d30f": {
+    "asset": 1651496023332,
+    "meta": 1651496070672,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_artistic_5.png"
+  },
+  "5502e921-ea5d-4ab9-819f-8d10dce02e5b": {
+    "asset": 1651496023333,
+    "meta": 1651496070675,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_artistic_6.png"
+  },
+  "0a97818a-4bd6-40da-add1-a704c4964224": {
+    "asset": 1651496023334,
+    "meta": 1651496070690,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_artistic_7.png"
+  },
+  "8e54b389-9505-4350-832a-24a4e01f4b20": {
+    "asset": 1651496023336,
+    "meta": 1651496070693,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_artistic_8.png"
+  },
+  "af1f3f66-a57c-4d34-858d-046de4be8e11": {
+    "asset": 1651496023338,
+    "meta": 1651496070712,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_artistic_9.png"
+  },
+  "f63c36a6-00bd-46c5-8cc8-30bbaf44d7d0": {
+    "asset": 1651496023339,
+    "meta": 1651496070709,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_christmas_0.png"
+  },
+  "70475a46-585b-4695-a7ee-9d597ba67027": {
+    "asset": 1651496023341,
+    "meta": 1651496070727,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_christmas_1.png"
+  },
+  "31b1f2bc-94de-4f61-ae7a-8b6be9a87315": {
+    "asset": 1651496023342,
+    "meta": 1651496070730,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_christmas_2.png"
+  },
+  "2c59f697-046b-4bc7-9a93-d163627a9163": {
+    "asset": 1651496023344,
+    "meta": 1651496070748,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_christmas_3.png"
+  },
+  "96d57927-bb61-4934-8cbd-3621e0af637a": {
+    "asset": 1651496023345,
+    "meta": 1651496070745,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_christmas_4.png"
+  },
+  "908b5c25-4a14-4e7e-befe-9c9b1bbf506b": {
+    "asset": 1651496023348,
+    "meta": 1651496070765,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_christmas_5.png"
+  },
+  "dcec61b1-709a-469a-8ccb-0f4882c54bd2": {
+    "asset": 1651496023353,
+    "meta": 1651496070767,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_christmas_6.png"
+  },
+  "78e4150a-920e-4014-a370-348cdc255559": {
+    "asset": 1651496023355,
+    "meta": 1651496070786,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_christmas_7.png"
+  },
+  "aa223477-3f5a-4e42-a088-45fef0b1c320": {
+    "asset": 1651496023356,
+    "meta": 1651496070783,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_christmas_8.png"
+  },
+  "d1dcdc4f-ce54-40ca-8236-063252aee015": {
+    "asset": 1651496023357,
+    "meta": 1651496070802,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_christmas_9.png"
+  },
+  "602be600-6c9f-4242-983b-44795fb00458": {
+    "asset": 1651496023359,
+    "meta": 1651496070804,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_classic_0.png"
+  },
+  "47a4a90c-967f-4088-882f-793995d3d7bf": {
+    "asset": 1651496023360,
+    "meta": 1651496070820,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_classic_1.png"
+  },
+  "0af48839-181b-4acc-a9a3-1079b1d8e0fd": {
+    "asset": 1651496023362,
+    "meta": 1651496070842,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_classic_3.png"
+  },
+  "220948a0-a5c3-45ef-b425-d84735c8e996": {
+    "asset": 1651496023361,
+    "meta": 1651496070823,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_classic_2.png"
+  },
+  "156d3441-b590-4546-b1d2-ed391cda689a": {
+    "asset": 1651496023364,
+    "meta": 1651496070839,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_classic_4.png"
+  },
+  "b126607d-a6e1-460f-b624-2975de785834": {
+    "asset": 1651496023366,
+    "meta": 1651496070858,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_classic_5.png"
+  },
+  "de6fc3b0-33a9-4f37-b038-e7aef8c2b416": {
+    "asset": 1651496023367,
+    "meta": 1651496070861,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_classic_6.png"
+  },
+  "57d0aa09-5ba0-41b6-87b5-aba665031f23": {
+    "asset": 1651496023369,
+    "meta": 1651496070877,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_classic_7.png"
+  },
+  "88faa60e-7dcb-4f25-89f2-20b9bb05e4f2": {
+    "asset": 1651496023370,
+    "meta": 1651496070880,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_classic_8.png"
+  },
+  "88afdfbe-ae4f-40b1-ba95-18779ea5e399": {
+    "asset": 1651496023371,
+    "meta": 1651496070894,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_classic_9.png"
+  },
+  "4e4294c0-0852-4e07-ba83-1b9baf24789a": {
+    "asset": 1651496023372,
+    "meta": 1651496070896,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_food_0.png"
+  },
+  "fc8c78cd-2ab2-40d9-9088-a13f744ade51": {
+    "asset": 1651496023374,
+    "meta": 1651496070915,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_food_1.png"
+  },
+  "2242d889-e354-4bd5-b647-4a51f645445d": {
+    "asset": 1651496023376,
+    "meta": 1651496070912,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_food_2.png"
+  },
+  "b3414856-031e-473a-b889-343ebd14aeee": {
+    "asset": 1651496023377,
+    "meta": 1651496070931,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_food_3.png"
+  },
+  "373b055a-bda7-4c7e-9c34-0b4e9346580b": {
+    "asset": 1651496023378,
+    "meta": 1651496070934,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_food_4.png"
+  },
+  "da77a13b-079a-4969-bf30-1c06bd905ef4": {
+    "asset": 1651496023379,
+    "meta": 1651496070950,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_food_5.png"
+  },
+  "119793f3-4e33-4b35-8d95-d8aa328659e7": {
+    "asset": 1651496023381,
+    "meta": 1651496070952,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_food_6.png"
+  },
+  "e32e7b10-09ee-4714-bbb1-b095f0980253": {
+    "asset": 1651496023383,
+    "meta": 1651496070971,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_food_7.png"
+  },
+  "dbc2bd89-5fc2-4cad-a7a4-5c6e381bea6b": {
+    "asset": 1651496023384,
+    "meta": 1651496070968,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_food_8.png"
+  },
+  "05f8d386-06b5-4a3c-9c72-5620921bdef9": {
+    "asset": 1651496023386,
+    "meta": 1651496070986,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_food_9.png"
+  },
+  "4ce77195-19dd-4923-b6ae-afd3226f7fd3": {
+    "asset": 1651496023387,
+    "meta": 1651496070988,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_natural_0.png"
+  },
+  "402e03e1-3a29-4db5-83ce-fec45727eca2": {
+    "asset": 1651496023388,
+    "meta": 1651496071004,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_natural_1.png"
+  },
+  "819aead6-67b8-474b-b22e-922326a030ce": {
+    "asset": 1651496023389,
+    "meta": 1651496071007,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_natural_2.png"
+  },
+  "14617586-4469-44ef-851c-61a1202fd0df": {
+    "asset": 1651496023391,
+    "meta": 1651496071023,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_natural_3.png"
+  },
+  "dde1506d-21db-4c0c-a802-72bb1ac01101": {
+    "asset": 1651496023393,
+    "meta": 1651496071025,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_natural_4.png"
+  },
+  "7ab7f9ba-1a73-4ae6-9bb4-38c2ea24765f": {
+    "asset": 1651496023394,
+    "meta": 1651496071041,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_natural_5.png"
+  },
+  "7666f04b-f405-40d4-a0a7-c4f74ef2ac9a": {
+    "asset": 1651496023397,
+    "meta": 1651496071059,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_natural_7.png"
+  },
+  "9d453f4f-b9ff-449a-8f42-2dc1b2cd0113": {
+    "asset": 1651496023396,
+    "meta": 1651496071043,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_natural_6.png"
+  },
+  "7b3135df-b086-40d9-97cd-92508dcf4172": {
+    "asset": 1651496023398,
+    "meta": 1651496071062,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_natural_8.png"
+  },
+  "87552a83-2f39-49f6-a26c-b5796b4750e4": {
+    "asset": 1651496023399,
+    "meta": 1651496071077,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_natural_9.png"
+  },
+  "cf0bd596-6506-4f8a-b7f0-53fe29904390": {
+    "asset": 1651496023401,
+    "meta": 1651496071080,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_novel_0.png"
+  },
+  "35a3b834-6bc6-40dd-85dc-2b71532f96e4": {
+    "asset": 1651496023402,
+    "meta": 1651496071096,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_novel_1.png"
+  },
+  "180d079c-ed82-4dc8-8899-e3571ce6e584": {
+    "asset": 1651496023404,
+    "meta": 1651496071098,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_novel_2.png"
+  },
+  "59cda246-f8b4-4292-ac79-0ab6c0a9d674": {
+    "asset": 1651496023405,
+    "meta": 1651496071114,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_novel_3.png"
+  },
+  "604c518a-b5d5-4dbe-a64b-7390cba22615": {
+    "asset": 1651496023407,
+    "meta": 1651496071139,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_novel_5.png"
+  },
+  "e6b8c8d2-a834-42d5-821b-282bc42c8a58": {
+    "asset": 1651496023406,
+    "meta": 1651496071117,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_novel_4.png"
+  },
+  "b2924adc-ff71-4dd9-a626-881f4b76f42a": {
+    "asset": 1651496023411,
+    "meta": 1651496071155,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_novel_7.png"
+  },
+  "1ecb6a35-5a66-4ea6-9e81-6026b9dbe7ab": {
+    "asset": 1651496023409,
+    "meta": 1651496071135,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_novel_6.png"
+  },
+  "5ff35e10-d2af-4f64-ab4f-b1fe77b9c875": {
+    "asset": 1651496023412,
+    "meta": 1651496071158,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_novel_8.png"
+  },
+  "03317485-1a53-42a7-a88b-53a2bbf71b68": {
+    "asset": 1651496023414,
+    "meta": 1651496071177,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_novel_9.png"
+  },
+  "53b074b6-dedb-4272-855c-40f4bd96bc1a": {
+    "asset": 1651496023415,
+    "meta": 1651496071174,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_pattern_0.png"
+  },
+  "0881b5f8-59c9-4c8f-8d78-770cf1e1843e": {
+    "asset": 1651496023416,
+    "meta": 1651496071193,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_pattern_1.png"
+  },
+  "bf4aba67-d8fb-4b74-ac14-356683fa0f39": {
+    "asset": 1651496023417,
+    "meta": 1651496071196,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_pattern_2.png"
+  },
+  "8a140cb3-1bea-4ef9-951a-370a63965946": {
+    "asset": 1651496023420,
+    "meta": 1651496071213,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_pattern_3.png"
+  },
+  "e1d39dd6-8a37-4e80-a349-d8d5fc9f289c": {
+    "asset": 1651496023421,
+    "meta": 1651496071216,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_pattern_4.png"
+  },
+  "166aaba2-9def-4902-bd05-25d6b0a25d27": {
+    "asset": 1651496023422,
+    "meta": 1651496071232,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_pattern_5.png"
+  },
+  "4c0ef5d2-a4d3-4a21-b7fb-23daf811a347": {
+    "asset": 1651496023424,
+    "meta": 1651496071235,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_pattern_6.png"
+  },
+  "e7bfa18e-af9d-42d8-8243-f29d4630cbe6": {
+    "asset": 1651496023425,
+    "meta": 1651496071250,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_pattern_7.png"
+  },
+  "8a56d739-8503-4417-abf9-6bf2bebd72c2": {
+    "asset": 1651496023428,
+    "meta": 1651496071271,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_pattern_9.png"
+  },
+  "079aad44-7418-4ec3-95da-f4522cebcc77": {
+    "asset": 1651496023427,
+    "meta": 1651496071253,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_pattern_8.png"
+  },
+  "b66e5a01-1cc4-425b-9ec3-47c4b48db882": {
+    "asset": 1651496023431,
+    "meta": 1651496071286,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_snow_1.png"
+  },
+  "ca78b732-f5b9-4fe8-a860-4e347fd03aab": {
+    "asset": 1651496023429,
+    "meta": 1651496071268,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_snow_0.png"
+  },
+  "04331acb-a8f3-4c28-9237-37602861f886": {
+    "asset": 1651496023433,
+    "meta": 1651496071289,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_snow_2.png"
+  },
+  "1ff5b1c8-49ed-460a-9511-7b0a75b1ba59": {
+    "asset": 1651496023434,
+    "meta": 1651496071305,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_snow_3.png"
+  },
+  "4d1c75ba-81ea-40bd-b3c3-4ebb40244e3f": {
+    "asset": 1651496023435,
+    "meta": 1651496071307,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_snow_4.png"
+  },
+  "58fb8f90-5d25-4fff-8507-3d86d711f20a": {
+    "asset": 1651496023436,
+    "meta": 1651496071323,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_snow_5.png"
+  },
+  "0d0f14d3-33d4-4610-abcc-e0eda45a9caf": {
+    "asset": 1651496023439,
+    "meta": 1651496071326,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_snow_6.png"
+  },
+  "666c44a7-4234-4d1f-83ff-66a4790d91f6": {
+    "asset": 1651496023440,
+    "meta": 1651496071345,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_snow_7.png"
+  },
+  "4472335b-ed44-4fb8-b840-9f8ebf28bd67": {
+    "asset": 1651496023441,
+    "meta": 1651496071342,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_snow_8.png"
+  },
+  "afe0d640-cac8-48b4-8603-4392ec86548d": {
+    "asset": 1651496023443,
+    "meta": 1651496071361,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_snow_9.png"
+  },
+  "fba5d1b5-0df1-4293-9d50-8a263f47408e": {
+    "asset": 1651496023444,
+    "meta": 1651496071363,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_sporty_0.png"
+  },
+  "b68908a8-056e-4986-a276-bff6761ed926": {
+    "asset": 1651496023461,
+    "meta": 1651496071383,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_sporty_1.png"
+  },
+  "46c9e066-bf6f-4d90-8826-ada45c64ad26": {
+    "asset": 1651496023463,
+    "meta": 1651496071380,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_sporty_2.png"
+  },
+  "32d3fbd9-adac-469d-a737-0f8c3bcab702": {
+    "asset": 1651496023465,
+    "meta": 1651496071399,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_sporty_3.png"
+  },
+  "9d94ead4-0c14-4d8a-a897-1e0e30fd8ef2": {
+    "asset": 1651496023468,
+    "meta": 1651496071402,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_sporty_4.png"
+  },
+  "3367dcab-f3eb-4c62-9cb7-5fd84da485c7": {
+    "asset": 1651496023469,
+    "meta": 1651496071420,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_sporty_5.png"
+  },
+  "4ce61ac7-247e-4a62-84a1-e5f840a360c6": {
+    "asset": 1651496023471,
+    "meta": 1651496071417,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_sporty_6.png"
+  },
+  "24b9dbd3-e9f1-4cfd-a797-50a54956257e": {
+    "asset": 1651496023473,
+    "meta": 1651496071440,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_sporty_7.png"
+  },
+  "8f9fcd3e-0134-408d-a42f-b51616609a9b": {
+    "asset": 1651496023477,
+    "meta": 1651496071458,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_sporty_9.png"
+  },
+  "41970625-7871-432f-9f14-6287b9f4240b": {
+    "asset": 1651670284531,
+    "meta": 1651670305060,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_front"
+  },
+  "263018c5-3e61-44de-94c0-25ad75053a7b": {
+    "asset": 1651496023474,
+    "meta": 1651496071437,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_bg\\poker_sporty_8.png"
+  },
+  "89f72855-a02d-4016-914f-4ba95a55c6ba": {
+    "asset": 1651496023479,
+    "meta": 1651496071461,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_front\\poker_front_0.png"
+  },
+  "0ccca5e1-fc1d-4057-a77a-417baf9de523": {
+    "asset": 1651670284580,
+    "meta": 1651670305061,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg"
+  },
+  "4ed41d8a-c4e0-4f6c-9461-18d6b8cc3283": {
+    "asset": 1651670284612,
+    "meta": 1651670305062,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern"
+  },
+  "6ad975c8-55ba-4ffc-8b58-923afd8efe0f": {
+    "asset": 1651496023481,
+    "meta": 1651496071482,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\poker_front\\poker_front_1.png"
+  },
+  "693dad51-6fe1-4275-8479-50840242ecd8": {
+    "asset": 1651670284640,
+    "meta": 1651670305063,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern_preview"
+  },
+  "135f7497-d2c0-42a4-a5c5-8fe5ebd3e26d": {
+    "asset": 1651496023550,
+    "meta": 1651496071484,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern_preview\\skin_bg_pattern_preview_0.png"
+  },
+  "06685b7c-8ee6-4fe6-8ea4-cfd37c6fc2ff": {
+    "asset": 1651496023552,
+    "meta": 1651496071501,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern_preview\\skin_bg_pattern_preview_1.png"
+  },
+  "73c739b0-4422-48ed-8428-b4304660c330": {
+    "asset": 1651496023554,
+    "meta": 1651496071503,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern_preview\\skin_bg_pattern_preview_10.png"
+  },
+  "39ba8c66-189b-4e99-be16-fa94d2de0dbe": {
+    "asset": 1651496023555,
+    "meta": 1651496071519,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern_preview\\skin_bg_pattern_preview_11.png"
+  },
+  "72f9ac95-88ae-4fde-95fe-56eddf5297f7": {
+    "asset": 1651496023556,
+    "meta": 1651496071522,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern_preview\\skin_bg_pattern_preview_12.png"
+  },
+  "88a5afb8-e14e-4184-925f-fb15c4c89538": {
+    "asset": 1651496023558,
+    "meta": 1651496071537,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern_preview\\skin_bg_pattern_preview_13.png"
+  },
+  "01ad57f9-fc32-4b05-a43d-be1c638bf6a0": {
+    "asset": 1651496023560,
+    "meta": 1651496071540,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern_preview\\skin_bg_pattern_preview_2.png"
+  },
+  "fd302d43-43a0-49d9-846f-fda864423f4b": {
+    "asset": 1651496023561,
+    "meta": 1651496071556,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern_preview\\skin_bg_pattern_preview_3.png"
+  },
+  "c2c77ccc-c75c-4440-bfc2-dd01171a900d": {
+    "asset": 1651496023563,
+    "meta": 1651496071559,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern_preview\\skin_bg_pattern_preview_4.png"
+  },
+  "f967cee7-a8fd-4d19-8cc7-de0df4dfda1d": {
+    "asset": 1651496023564,
+    "meta": 1651496071575,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern_preview\\skin_bg_pattern_preview_5.png"
+  },
+  "56b9ee88-9bb5-48d0-be7a-b574a1682e82": {
+    "asset": 1651496023566,
+    "meta": 1651496071578,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern_preview\\skin_bg_pattern_preview_6.png"
+  },
+  "ec697288-9700-4815-b4a9-05517ab7d408": {
+    "asset": 1651496023567,
+    "meta": 1651496071594,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern_preview\\skin_bg_pattern_preview_7.png"
+  },
+  "cf3642b2-425d-4555-98c7-5f352a2a0b9a": {
+    "asset": 1651496023568,
+    "meta": 1651496071597,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern_preview\\skin_bg_pattern_preview_8.png"
+  },
+  "56b71cf0-d246-49f6-87e5-4cca44df677a": {
+    "asset": 1651496023570,
+    "meta": 1651496071612,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern_preview\\skin_bg_pattern_preview_9.png"
+  },
+  "15881ade-bf68-471d-ab2b-900b79dbe6b1": {
+    "asset": 1651496023530,
+    "meta": 1651496071629,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern\\skin_bg_pattern_1.png"
+  },
+  "86389cfc-fd9e-4833-a96b-a8eee4e25ffd": {
+    "asset": 1651496023528,
+    "meta": 1651496071625,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern\\skin_bg_pattern_0.png"
+  },
+  "0e77e67a-109c-44d4-9814-0d2d84ae3090": {
+    "asset": 1651496023532,
+    "meta": 1651496071651,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern\\skin_bg_pattern_10.png"
+  },
+  "548bfc37-3363-48f1-8d14-8b0a01094f29": {
+    "asset": 1651496023533,
+    "meta": 1651496071646,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern\\skin_bg_pattern_11.png"
+  },
+  "15ff9db6-9b82-46e2-b75d-09a18f21b620": {
+    "asset": 1651496023535,
+    "meta": 1651496071679,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern\\skin_bg_pattern_12.png"
+  },
+  "c2a594d4-2609-4d30-a206-6608f1edef73": {
+    "asset": 1651496023536,
+    "meta": 1651496071673,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern\\skin_bg_pattern_13.png"
+  },
+  "61449b22-5132-45b6-84bd-cfba3850150e": {
+    "asset": 1651496023538,
+    "meta": 1651496071701,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern\\skin_bg_pattern_2.png"
+  },
+  "647c860d-7c0f-423d-a727-a292b79e72ba": {
+    "asset": 1651496023539,
+    "meta": 1651496071698,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern\\skin_bg_pattern_3.png"
+  },
+  "d193f718-c880-41af-a278-e85a8beacf10": {
+    "asset": 1651496023540,
+    "meta": 1651496071717,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern\\skin_bg_pattern_4.png"
+  },
+  "90879d19-0990-413b-97e5-614523ac4fb1": {
+    "asset": 1651496023542,
+    "meta": 1651496071719,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern\\skin_bg_pattern_5.png"
+  },
+  "192fb6f9-c5d0-4f4d-b512-4dc66fb766ee": {
+    "asset": 1651496023545,
+    "meta": 1651496071739,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern\\skin_bg_pattern_7.png"
+  },
+  "efa877c0-16b6-4b41-8b8f-ccfc32550c85": {
+    "asset": 1651496023543,
+    "meta": 1651496071736,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern\\skin_bg_pattern_6.png"
+  },
+  "13ac92a4-3a9a-4b76-988b-86c45227cfa3": {
+    "asset": 1651496023546,
+    "meta": 1651496071756,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern\\skin_bg_pattern_8.png"
+  },
+  "c1c7687c-795c-4764-8f8a-f5c6fa8f2f1e": {
+    "asset": 1651496023547,
+    "meta": 1651496071759,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg_pattern\\skin_bg_pattern_9.png"
+  },
+  "624f82ae-b3fb-47c3-b816-4943c4137063": {
+    "asset": 1651496023483,
+    "meta": 1651496071775,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_0.png"
+  },
+  "81156bee-5072-4694-9124-412e7cc13b97": {
+    "asset": 1651496023484,
+    "meta": 1651496071778,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_1.png"
+  },
+  "a4679fd4-1489-4af6-baa2-0b91b952305c": {
+    "asset": 1651496023488,
+    "meta": 1651496071794,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_11.png"
+  },
+  "e9be000b-d55f-418a-86ed-2caff8589404": {
+    "asset": 1651496023487,
+    "meta": 1651496071796,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_10.png"
+  },
+  "dab8cee9-4089-47da-9d20-1efe41acf055": {
+    "asset": 1651496023491,
+    "meta": 1651496071812,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_13.png"
+  },
+  "587420fb-2355-4f1b-9903-5faea6108f9f": {
+    "asset": 1651496023490,
+    "meta": 1651496071815,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_12.png"
+  },
+  "3067aa8d-27f9-47b4-9a33-7c4171553fec": {
+    "asset": 1651496023494,
+    "meta": 1651496071831,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_14.png"
+  },
+  "994b7274-95a7-4ce1-bccf-28a88f90b5e8": {
+    "asset": 1651496023496,
+    "meta": 1651496071833,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_15.png"
+  },
+  "df9966ea-4cf4-4841-92f4-46c3314747ba": {
+    "asset": 1651496023497,
+    "meta": 1651496071849,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_16.png"
+  },
+  "f94a9f53-2b82-44ca-8610-ebb835e15968": {
+    "asset": 1651496023499,
+    "meta": 1651496071852,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_17.png"
+  },
+  "005fa742-3c81-49e4-9526-d8c4c9057bf3": {
+    "asset": 1651496023501,
+    "meta": 1651496071870,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_19.png"
+  },
+  "bbf36ce5-a2f5-453c-8099-5c016173c9c5": {
+    "asset": 1651496023500,
+    "meta": 1651496071867,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_18.png"
+  },
+  "1131fe26-535d-4038-ba7c-a0f6799015f9": {
+    "asset": 1651496023504,
+    "meta": 1651496071885,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_2.png"
+  },
+  "d742a513-f287-4e3c-86b6-c9057b04cf41": {
+    "asset": 1651496023505,
+    "meta": 1651496071888,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_20.png"
+  },
+  "d9348163-1ff1-4cc4-ac98-b42598ce3d75": {
+    "asset": 1651496023508,
+    "meta": 1651496071902,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_21.png"
+  },
+  "000bcd18-9d5b-4eba-aa29-f35ddd51638d": {
+    "asset": 1651496023509,
+    "meta": 1651496071905,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_22.png"
+  },
+  "2c5ac365-febd-472c-8666-4254957044b4": {
+    "asset": 1651496023511,
+    "meta": 1651496071920,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_23.png"
+  },
+  "b0ef7a47-521c-4706-905e-3742b34a78b0": {
+    "asset": 1651496023512,
+    "meta": 1651496071922,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_24.png"
+  },
+  "337c932c-e353-433c-83a3-bd07a3f78408": {
+    "asset": 1651496023515,
+    "meta": 1651496071940,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_26.png"
+  },
+  "42d13594-380e-4a01-af3a-8fd4a63a4879": {
+    "asset": 1651496023513,
+    "meta": 1651496071937,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_25.png"
+  },
+  "44a76fc3-67d0-4d0c-acd6-d5d525954f2f": {
+    "asset": 1651496023517,
+    "meta": 1651496071956,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_3.png"
+  },
+  "3ed4ea7a-a110-4d8a-842c-50ada9306d39": {
+    "asset": 1651496023518,
+    "meta": 1651496071959,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_4.png"
+  },
+  "5f2f0119-f133-4b58-b647-2b57d4dd9a38": {
+    "asset": 1651496023520,
+    "meta": 1651496071977,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_5.png"
+  },
+  "0416696d-4018-4b72-ae60-c6e39266704c": {
+    "asset": 1651496023522,
+    "meta": 1651496071974,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_6.png"
+  },
+  "130bf372-a59f-42ef-938d-8343327e0ddf": {
+    "asset": 1651496023524,
+    "meta": 1651496071992,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_7.png"
+  },
+  "7da28f59-2c87-4192-ab5d-ea9ba87c50ca": {
+    "asset": 1651496023525,
+    "meta": 1651496071995,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_8.png"
+  },
+  "de4bde15-079b-44dd-83f8-cc3736b79a71": {
+    "asset": 1651670284646,
+    "meta": 1651670305065,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_music"
+  },
+  "84114360-437e-4fc0-a37c-78154c30ebbf": {
+    "asset": 1651496023526,
+    "meta": 1651496072012,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_bg\\skin_bg_9.png"
+  },
+  "ffaf6160-8b4f-4abb-aece-8e3007a84c34": {
+    "asset": 1651496023571,
+    "meta": 1651496072014,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_music\\so_btn_music_0.png"
+  },
+  "4c6c319e-2f84-4c01-a896-3b65541ae8b8": {
+    "asset": 1651670284650,
+    "meta": 1651670305066,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Stage"
+  },
+  "726e0e40-49c8-4f99-9473-52b827a6ed4a": {
+    "asset": 1651496023574,
+    "meta": 1651496072019,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Stage\\Solitaire.prefab"
+  },
+  "c5991741-c9df-44c1-8bb1-a89afc942478": {
+    "asset": 1651841915679,
+    "meta": 1651842106448,
+    "relativePath": "GameBundles\\Solitaire\\Script"
+  },
+  "9e60bedc-f885-458a-8390-b1a86414f9e7": {
+    "asset": 1651841927108,
+    "meta": 1651842106449,
+    "relativePath": "GameBundles\\Solitaire\\Script\\_Public"
+  },
+  "6f51ecc1-25d4-4258-8207-4e659176459b": {
+    "asset": 1651670284772,
+    "meta": 1651670305070,
+    "relativePath": "GameBundles\\Solitaire\\Script\\_Public\\Component"
+  },
+  "d70667df-a61f-4233-8c1a-660158634c4c": {
+    "asset": 1651496023684,
+    "meta": 1651496072135,
+    "relativePath": "GameBundles\\Solitaire\\Script\\_Public\\Component\\ActionBreath.ts"
+  },
+  "4ffa9898-8e81-48da-9df9-20e6eeaeec08": {
+    "asset": 1651496023682,
+    "meta": 1651496072256,
+    "relativePath": "GameBundles\\Solitaire\\Script\\_Public\\SolitaireActionUIPanel.ts"
+  },
+  "8116c782-04a5-4867-b703-b5bed6a49f56": {
+    "asset": 1651670284658,
+    "meta": 1651670305072,
+    "relativePath": "GameBundles\\Solitaire\\Script\\DataCache"
+  },
+  "779e0fa0-388c-48a8-908f-30add9da13be": {
+    "asset": 1651496023573,
+    "meta": 1651496072577,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\skin_music\\so_btn_music_1.png"
+  },
+  "0d4d4f34-5cd4-49a9-9f95-257843b9378d": {
+    "asset": 1651496023606,
+    "meta": 1651496072410,
+    "relativePath": "GameBundles\\Solitaire\\Script\\DataCache\\SolitaireAutoPlayerDataCache.ts"
+  },
+  "01fc3497-abb8-487e-8d9f-ac4a00985625": {
+    "asset": 1651496023608,
+    "meta": 1651496072524,
+    "relativePath": "GameBundles\\Solitaire\\Script\\DataCache\\SolitaireDataCache.ts"
+  },
+  "254cf235-b1c3-436f-98a5-2a1f7b39f65b": {
+    "asset": 1651496023609,
+    "meta": 1651496072575,
+    "relativePath": "GameBundles\\Solitaire\\Script\\DataCache\\SolitaireSkinDataCache.ts"
+  },
+  "73047e72-b1d1-4135-b927-7671eaf4b063": {
+    "asset": 1651742896318,
+    "meta": 1651742897194,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Game"
+  },
+  "429aed02-f697-4e1a-a8d6-cb06e78461f9": {
+    "asset": 1651670284669,
+    "meta": 1651670305074,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Game\\Model"
+  },
+  "8f4c919f-713b-4a4a-ae23-b3b9176a8715": {
+    "asset": 1651496023616,
+    "meta": 1651496072596,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Game\\Model\\Poker.ts"
+  },
+  "40f1ee81-b629-4741-ae81-014f143921df": {
+    "asset": 1651496023618,
+    "meta": 1651496072641,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Game\\Model\\PokerGroup.ts"
+  },
+  "7024d383-f5ef-446b-93c7-37725af4206e": {
+    "asset": 1651496023619,
+    "meta": 1651496072671,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Game\\Model\\SolitaireConfigGenerator.ts"
+  },
+  "985212a8-cf3d-42f6-8cbb-f2e483aaaec7": {
+    "asset": 1651496023613,
+    "meta": 1651496073164,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Game\\SolitaireType.ts"
+  },
+  "e4098496-76ca-4803-bd8e-5fcf1f16b487": {
+    "asset": 1651670284693,
+    "meta": 1651670305076,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Game\\View"
+  },
+  "748da79e-7a5e-4c40-9983-648e47158a49": {
+    "asset": 1651496023625,
+    "meta": 1651496073481,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Game\\View\\SolitaireGameDesktopUI.ts"
+  },
+  "fc8a8013-889a-43d1-92c4-8764b1379c59": {
+    "asset": 1651496023627,
+    "meta": 1651496073506,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Game\\View\\SolitaireGameTopInfoUI.ts"
+  },
+  "8b4f9e1c-6c71-479a-8b37-71a2594ebf35": {
+    "asset": 1651496023630,
+    "meta": 1651496073579,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Game\\View\\SolitairePokerDisplayUI.ts"
+  },
+  "6d803f65-4c55-42ef-8440-b9ad74c25987": {
+    "asset": 1651496023635,
+    "meta": 1651496073675,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Game\\View\\UIHint.ts"
+  },
+  "8b0168aa-b31a-466f-b563-446d57140e39": {
+    "asset": 1651496023636,
+    "meta": 1651496073685,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Game\\View\\UIHintMgr.ts"
+  },
+  "8a51b9df-2a8c-4e96-acbf-1cb501a49368": {
+    "asset": 1651496023639,
+    "meta": 1651496073744,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Game\\View\\UIPoker.ts"
+  },
+  "dc3679ac-93a7-4c2e-a8cb-a2aef09291a5": {
+    "asset": 1651670284696,
+    "meta": 1651670305077,
+    "relativePath": "GameBundles\\Solitaire\\Script\\HowToPlay"
+  },
+  "848cb216-7ebd-4633-bef3-3f603a699037": {
+    "asset": 1651670284700,
+    "meta": 1651670305078,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Logic"
+  },
+  "86c8ccbb-d408-494d-86d8-fbea9fad3308": {
+    "asset": 1651670284703,
+    "meta": 1651670305079,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Menu"
+  },
+  "5eaec0a7-4155-44ec-8a53-9f28e5905c95": {
+    "asset": 1651670284706,
+    "meta": 1651670305081,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Options"
+  },
+  "571c012f-0c47-4d15-be95-bfb0aaabbc56": {
+    "asset": 1651496023588,
+    "meta": 1651496073905,
+    "relativePath": "GameBundles\\Solitaire\\Script\\SolitaireAudioCfg.ts"
+  },
+  "531b877a-6e43-461f-b94a-140947f8bb57": {
+    "asset": 1651496023589,
+    "meta": 1651496073923,
+    "relativePath": "GameBundles\\Solitaire\\Script\\SolitaireAutoAtlasCfg.ts"
+  },
+  "c4f07f95-13dc-4d93-896e-e89cee44378c": {
+    "asset": 1651496023593,
+    "meta": 1651496073936,
+    "relativePath": "GameBundles\\Solitaire\\Script\\SolitaireEnums.ts"
+  },
+  "c19273e2-5062-4c43-bc98-a86c38a7dbee": {
+    "asset": 1651496023594,
+    "meta": 1651496073942,
+    "relativePath": "GameBundles\\Solitaire\\Script\\SolitaireEvent.ts"
+  },
+  "b61a4d51-ca77-4c6b-b8ab-b668cd3d6f61": {
+    "asset": 1651496023595,
+    "meta": 1651496073950,
+    "relativePath": "GameBundles\\Solitaire\\Script\\SolitaireJsonCfg.ts"
+  },
+  "61135279-e5ff-4356-b873-2f912143309e": {
+    "asset": 1651496023597,
+    "meta": 1651496073958,
+    "relativePath": "GameBundles\\Solitaire\\Script\\SolitaireLangCfg.ts"
+  },
+  "90cdb31c-1293-4eab-a7ca-30613016abd3": {
+    "asset": 1651496023599,
+    "meta": 1651496073970,
+    "relativePath": "GameBundles\\Solitaire\\Script\\SolitairePrefabCfg.ts"
+  },
+  "d27354fc-29d0-40d2-833c-4376d792f1ae": {
+    "asset": 1651496023600,
+    "meta": 1651496073988,
+    "relativePath": "GameBundles\\Solitaire\\Script\\SolitaireSpriteFrameCfg.ts"
+  },
+  "9a548be5-3167-4c2b-a377-ef57dc8e346d": {
+    "asset": 1651496023602,
+    "meta": 1651496074000,
+    "relativePath": "GameBundles\\Solitaire\\Script\\SolitaireStage.ts"
+  },
+  "87e33b83-9413-4c72-a411-2d70a55193da": {
+    "asset": 1651670284736,
+    "meta": 1651670305083,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Statistics"
+  },
+  "4c0d8da2-d5d9-4317-849e-835ee3f51fd3": {
+    "asset": 1651496023651,
+    "meta": 1651496074016,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Statistics\\SolitaireStatisticsUIPanel.ts"
+  },
+  "6ef351f4-1012-4186-ab3e-50b35824f4ea": {
+    "asset": 1651496023652,
+    "meta": 1651496074024,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Statistics\\UIStatisticsCircleProgress.ts"
+  },
+  "4ac2e08c-ab8d-4235-9135-705e85e778d2": {
+    "asset": 1651496023653,
+    "meta": 1651496074043,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Statistics\\UIStatisticsPage.ts"
+  },
+  "cb22917c-beb4-4a1f-a1a9-cd0018ca0c8a": {
+    "asset": 1651670284766,
+    "meta": 1651670305084,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Themes"
+  },
+  "9ec68604-3bfb-4037-b049-d74a99798a25": {
+    "asset": 1651496023655,
+    "meta": 1651496074077,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Themes\\SolitaireThemesContentsUI.ts"
+  },
+  "c240e472-4a95-4bea-8221-bea806a9fae4": {
+    "asset": 1651496023656,
+    "meta": 1651496074094,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Themes\\SolitaireThemesEffectColumnUI.ts"
+  },
+  "fff88194-861c-4c6f-956f-8f3bc849396a": {
+    "asset": 1651496023657,
+    "meta": 1651496074112,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Themes\\SolitaireThemesEffectUI.ts"
+  },
+  "27383f8c-2586-4d31-bfea-fe2dc53e0729": {
+    "asset": 1651496023659,
+    "meta": 1651496074128,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Themes\\SolitaireThemesSelfSkinItemUI.ts"
+  },
+  "8b900747-7686-45ac-9655-2a192486f0b1": {
+    "asset": 1651496023659,
+    "meta": 1651496074146,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Themes\\SolitaireThemesSelfSkinUI.ts"
+  },
+  "fbe25d1c-5a7f-46f7-a626-e94caeebcd51": {
+    "asset": 1651496023661,
+    "meta": 1651496074165,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Themes\\SolitaireThemesUIPanel.ts"
+  },
+  "6d060abb-9e56-4a9c-95cc-603ae51cb49c": {
+    "asset": 1651496023662,
+    "meta": 1651496074175,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Themes\\UIThemeMenuContent.ts"
+  },
+  "5ab37f3f-c142-4019-a374-bc469b633295": {
+    "asset": 1651496023665,
+    "meta": 1651496074192,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Themes\\UIThemeMenuContentBoards.ts"
+  },
+  "893ca684-0c96-4cda-a671-b9ae267cddcc": {
+    "asset": 1651496023666,
+    "meta": 1651496074202,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Themes\\UIThemeMenuContentBoardsBackgroundColorItem.ts"
+  },
+  "8385c21f-840d-4ee2-94b0-43e7b3364739": {
+    "asset": 1651496023667,
+    "meta": 1651496074212,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Themes\\UIThemeMenuContentBoardsPatternItem.ts"
+  },
+  "4ff924ad-e107-4267-9fbe-deef6da1c8c3": {
+    "asset": 1651496023669,
+    "meta": 1651496074225,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Themes\\UIThemeMenuContentPokerBack.ts"
+  },
+  "f85c4d68-8314-4231-984d-0e54d0a8e2e5": {
+    "asset": 1651496023670,
+    "meta": 1651496074236,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Themes\\UIThemeMenuContentPokerBackKindItem.ts"
+  },
+  "5dfbc578-6e13-462e-9271-9c8176b3d012": {
+    "asset": 1651496023672,
+    "meta": 1651496074247,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Themes\\UIThemeMenuContentPokerBackKindSubItem.ts"
+  },
+  "b4398d1d-781b-4e4d-a6b6-688f3a1c38b6": {
+    "asset": 1651496023674,
+    "meta": 1651496074261,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Themes\\UIThemeMenuContentPokerFace.ts"
+  },
+  "58660c54-f5bf-4f62-b7d2-3756dd49cbd1": {
+    "asset": 1651496023674,
+    "meta": 1651496074276,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Themes\\UIThemeMenuContentPokerFaceItem.ts"
+  },
+  "10393342-55ee-4818-8626-992ad1f71f39": {
+    "asset": 1651496023676,
+    "meta": 1651496074286,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Themes\\UIThemeMenuItem.ts"
+  },
+  "9fa96254-c402-4437-8e85-574df28ec730": {
+    "asset": 1651670284790,
+    "meta": 1651670305085,
+    "relativePath": "Lib"
+  },
+  "6a28ce00-fbaa-4a2a-a265-49782a82ad84": {
+    "asset": 1651496023691,
+    "meta": 1651496074292,
+    "relativePath": "Lib\\ii.js"
+  },
+  "fe9c1844-168b-4da6-8d01-6782e794daaf": {
+    "asset": 1651670284853,
+    "meta": 1651670305087,
+    "relativePath": "StartScene"
+  },
+  "70d5e132-a6b9-46d2-ac89-5767c1f18bbb": {
+    "asset": 1651670284815,
+    "meta": 1651670305088,
+    "relativePath": "StartScene\\AutoAtlas_Base"
+  },
+  "c46157ca-9a21-4723-9729-55d2270cb036": {
+    "asset": 1651496023699,
+    "meta": 1651496074297,
+    "relativePath": "StartScene\\AutoAtlas_Base\\AutoAtlas-Base.pac"
+  },
+  "74709575-4ed7-4fe1-a484-b682f42d5e97": {
+    "asset": 1651496023690,
+    "meta": 1651496074300,
+    "relativePath": "Lib\\ii.d.ts"
+  },
+  "e4ef9eeb-1e4f-4ba2-b56c-f8bc2d41412c": {
+    "asset": 1651496023702,
+    "meta": 1651496074314,
+    "relativePath": "StartScene\\AutoAtlas_Base\\c_sudoku_10.png"
+  },
+  "5dd303b7-3411-4f2a-a123-cbbff4e1774f": {
+    "asset": 1651496023704,
+    "meta": 1651496074324,
+    "relativePath": "StartScene\\AutoAtlas_Base\\c_sudoku_2.png"
+  },
+  "892637a6-02ff-40ca-82b5-975945b0351b": {
+    "asset": 1651496023705,
+    "meta": 1651496074326,
+    "relativePath": "StartScene\\AutoAtlas_Base\\gf_bg_panel.png"
+  },
+  "d2c04985-99eb-4560-94dd-4f7e0c8765f0": {
+    "asset": 1651496023707,
+    "meta": 1651496074338,
+    "relativePath": "StartScene\\AutoAtlas_Base\\gf_bg_tiled_1.png"
+  },
+  "dc63e912-9c03-40a3-ac5c-bb6464b4a3be": {
+    "asset": 1651496023706,
+    "meta": 1651496074341,
+    "relativePath": "StartScene\\AutoAtlas_Base\\gf_bg_tiled.png"
+  },
+  "c620bdf5-5332-4426-b112-d664580f1758": {
+    "asset": 1651496023709,
+    "meta": 1651496074354,
+    "relativePath": "StartScene\\AutoAtlas_Base\\gf_Icon-60@3x.png"
+  },
+  "5aff588e-b342-4786-b226-fbb42f0fb861": {
+    "asset": 1651496023711,
+    "meta": 1651496074352,
+    "relativePath": "StartScene\\AutoAtlas_Base\\gf_img_outline_round.png"
+  },
+  "35763123-5926-48c8-9798-d9a679adad1a": {
+    "asset": 1651496023713,
+    "meta": 1651496074368,
+    "relativePath": "StartScene\\AutoAtlas_Base\\gf_loading_circle.png"
+  },
+  "43035fa0-180c-4556-913a-0c45d66d3fe1": {
+    "asset": 1651496023714,
+    "meta": 1651496074366,
+    "relativePath": "StartScene\\AutoAtlas_Base\\gf_texture_white_2x2.png"
+  },
+  "e54da38a-eb15-4a72-bd5b-415d66df23ae": {
+    "asset": 1651670284834,
+    "meta": 1651670305089,
+    "relativePath": "StartScene\\Script"
+  },
+  "6896246d-32ea-45d8-a5a5-6b4ad8c82d1e": {
+    "asset": 1651496023716,
+    "meta": 1651496074511,
+    "relativePath": "StartScene\\AutoAtlas_Base\\gf_zq.png"
+  },
+  "7365da76-7de3-4603-beb4-4de591f28b3f": {
+    "asset": 1651670284833,
+    "meta": 1651670305090,
+    "relativePath": "StartScene\\Script\\UIPanel"
+  },
+  "8ea23a9e-964f-40c6-b54c-b1d41d13e1ec": {
+    "asset": 1651496023723,
+    "meta": 1651496074402,
+    "relativePath": "StartScene\\Script\\UIPanel\\BlockInputUIPanel.ts"
+  },
+  "e13933f1-02db-409c-a683-3a6ea98e608d": {
+    "asset": 1651496023724,
+    "meta": 1651496074421,
+    "relativePath": "StartScene\\Script\\UIPanel\\DialogUIPanel.ts"
+  },
+  "08c00695-704b-4ac2-99e8-b5001071406a": {
+    "asset": 1651496023727,
+    "meta": 1651496074452,
+    "relativePath": "StartScene\\Script\\UIPanel\\LoadingUIPanel.ts"
+  },
+  "1763cc42-8ecc-4e4a-be5c-7c05b8f38ba8": {
+    "asset": 1651670284848,
+    "meta": 1651670305092,
+    "relativePath": "StartScene\\StartBundle"
+  },
+  "12e82a3c-9e05-4d9d-bdeb-eadc030c7158": {
+    "asset": 1651670284847,
+    "meta": 1651670305093,
+    "relativePath": "StartScene\\StartBundle\\Res"
+  },
+  "7ec99848-381a-45dd-a03b-8e2ee013ab3c": {
+    "asset": 1651670284846,
+    "meta": 1651670305094,
+    "relativePath": "StartScene\\StartBundle\\Res\\Prefab"
+  },
+  "5904f564-52cc-4c46-af15-98f163604814": {
+    "asset": 1651496023737,
+    "meta": 1651496074498,
+    "relativePath": "StartScene\\StartBundle\\Res\\Prefab\\BlockInputUIPanel.prefab"
+  },
+  "fa78a290-f16e-4bec-92aa-67845ffae376": {
+    "asset": 1651496023738,
+    "meta": 1651496074503,
+    "relativePath": "StartScene\\StartBundle\\Res\\Prefab\\DialogUIPanel.prefab"
+  },
+  "fc037bfb-d9a9-44da-942f-7ec969269d96": {
+    "asset": 1651496023740,
+    "meta": 1651496074514,
+    "relativePath": "StartScene\\StartBundle\\Res\\Prefab\\LoadingUIPanel.prefab"
+  },
+  "03165994-61a2-4032-990d-30dd75e429de": {
+    "asset": 1651496023741,
+    "meta": 1651496074517,
+    "relativePath": "StartScene\\StartBundle\\Res\\Prefab\\LoginUIPanel.prefab"
+  },
+  "7273533f-4738-4742-8148-8652e1001ca7": {
+    "asset": 1651496023744,
+    "meta": 1651496074520,
+    "relativePath": "StartScene\\StartBundle\\Res\\Prefab\\MsgUIPanel.prefab"
+  },
+  "25f9bc19-fd50-4c22-a40e-b40fa29de9db": {
+    "asset": 1651496023745,
+    "meta": 1651496074523,
+    "relativePath": "StartScene\\StartBundle\\Res\\Prefab\\WaitingUIPanel.prefab"
+  },
+  "0a75ab86-1b8c-4fc9-95bb-f39c7d01835c": {
+    "asset": 1651841930678,
+    "meta": 1651841930687,
+    "relativePath": "StartScene\\StartScene.fire"
+  },
+  "c8050e28-d176-4b6b-9c0f-8f372b4b8184": {
+    "asset": 1651496023701,
+    "meta": 1651496074312,
+    "relativePath": "StartScene\\AutoAtlas_Base\\bg.jpg"
+  },
+  "c41018b4-4feb-49fa-85f7-1bafc8d52539": {
+    "asset": 1651496023732,
+    "meta": 1651496074488,
+    "relativePath": "StartScene\\Script\\UIPanel\\WaitingUIPanel.ts"
+  },
+  "208e5d1c-9a2c-46c2-a4e3-308c91bf6441": {
+    "asset": 1651496023730,
+    "meta": 1651496074480,
+    "relativePath": "StartScene\\Script\\UIPanel\\MsgUIPanel.ts"
+  },
+  "7b0c2520-cace-407c-978f-0e43336fa347": {
+    "asset": 1651546474908,
+    "meta": 1651546474931,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\HowToPlay\\SolitaireHowToPlayUIPanel.prefab"
+  },
+  "21c54018-20ba-4fce-bad4-ae88cf6f5a86": {
+    "asset": 1651496023621,
+    "meta": 1651496073104,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Game\\Model\\SolitaireJu.ts"
+  },
+  "08ed8c6a-af08-4b4c-b0dc-638a815c038d": {
+    "asset": 1651496371044,
+    "meta": 1651496378575,
+    "relativePath": "_Art\\Solitaire\\效果图.zip"
+  },
+  "2ad93773-8be8-4ec4-80c4-dba0ba332b34": {
+    "asset": 1651497675626,
+    "meta": 1651497675654,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\how_to_play\\neu.png"
+  },
+  "363c4653-d6e2-4baf-8c23-b41eafa06604": {
+    "asset": 1651497723672,
+    "meta": 1651497723689,
+    "relativePath": "GameBundles\\Solitaire\\Res\\SpriteFrame\\how_to_play\\校门.png"
+  },
+  "5fb4581b-5d17-4c62-9ce1-dd02b5c331cb": {
+    "asset": 1651828820781,
+    "meta": 1651828820797,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Game\\UINewGame.prefab"
+  },
+  "6db589eb-b9f9-4bf4-847a-041bb9dd5f2d": {
+    "asset": 1651506651841,
+    "meta": 1651506653709,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Menu\\SolitaireMenuUIPanel.prefab"
+  },
+  "4da9d917-4fc7-4819-80ce-114d267d7ca3": {
+    "asset": 1651507074299,
+    "meta": 1651507076109,
+    "relativePath": "GameBundles\\Solitaire\\Script\\SolitaireCfg.ts"
+  },
+  "6209e07c-231e-4db1-8225-7e59b662a80d": {
+    "asset": 1651677947900,
+    "meta": 1651677947974,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Options\\SolitaireOptionsUIPanel.prefab"
+  },
+  "fb2fa7d9-b322-498b-ae66-20e1a5a7dfa0": {
+    "asset": 1651546685043,
+    "meta": 1651546685057,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Statistics\\SolitaireStatisticsUIPanel.prefab"
+  },
+  "5bce8ee4-3c69-419d-b9d8-41ead8854ad7": {
+    "asset": 1651674415146,
+    "meta": 1651674415157,
+    "relativePath": "GameBundles\\Solitaire\\Res\\Prefab\\Game\\UIGameLose.prefab"
+  },
+  "cc36087d-9879-4408-89fb-5cc28dda0990": {
+    "asset": 1651583857309,
+    "meta": 1651583859826,
+    "relativePath": "StartScene\\Script\\Cfg.ts"
+  },
+  "bcdc0301-42ac-4409-ae8f-ba865db81155": {
+    "asset": 1651583857308,
+    "meta": 1651583859875,
+    "relativePath": "StartScene\\Script\\GameApp.ts"
+  },
+  "d1604b01-a025-4588-93c0-bf129ea54fc2": {
+    "asset": 1651583857309,
+    "meta": 1651583859909,
+    "relativePath": "StartScene\\Script\\UIPanel\\LoginUIPanel.ts"
+  },
+  "9e806fec-04e6-4c8a-87b0-4c6cef2ddbe6": {
+    "asset": 1651677560760,
+    "meta": 1651677565543,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Game\\View\\SolitaireGameBottomMenuUI.ts"
+  },
+  "6a4c6ee4-d7ad-42f5-8d8a-514f579a8c07": {
+    "asset": 1651679494226,
+    "meta": 1651679829664,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Game\\Model\\SolitaireTestData.ts"
+  },
+  "1dff5175-9cad-42c7-9072-70c23ecc647a": {
+    "asset": 1651679548453,
+    "meta": 1651679829824,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Game\\View\\UIGameWin.ts"
+  },
+  "118ceb85-01b9-4e8e-959b-a5b9dab1f826": {
+    "asset": 1651679600204,
+    "meta": 1651679829914,
+    "relativePath": "GameBundles\\Solitaire\\Script\\HowToPlay\\SolitaireHowToPlayUIPanel.ts"
+  },
+  "4b47b92b-3d53-4257-904e-783000dc3222": {
+    "asset": 1651679611608,
+    "meta": 1651679829977,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Logic\\SolitaireLogic.ts"
+  },
+  "0d73277d-72a9-4f5b-a8c7-4d48f5e3f920": {
+    "asset": 1651679647296,
+    "meta": 1651679830089,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Options\\SolitaireOptionsUIPanel.ts"
+  },
+  "e4a7e5a2-20e4-4b10-a7d0-229847181bdd": {
+    "asset": 1651679800309,
+    "meta": 1651679830105,
+    "relativePath": "StartScene\\Script\\PrefabCfg.ts"
+  },
+  "92e44b12-2bd1-4da0-96bc-ac108cd72b04": {
+    "asset": 1651741706788,
+    "meta": 1651742897413,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Game\\Model_diagram.png"
+  },
+  "42cb7521-f3e0-491a-bc8a-261b3c4190f2": {
+    "asset": 1651755471164,
+    "meta": 1651755472187,
+    "relativePath": "GameBundles\\Solitaire\\Script\\_Public\\Component\\UISettingToggle.ts"
+  },
+  "af16c1e4-1343-429b-bff8-2a2bd27dd04b": {
+    "asset": 1651755429512,
+    "meta": 1651755472275,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Game\\View\\SolitaireGameUIPanel.ts"
+  },
+  "16406c6b-9ae9-47f5-9255-c931efe324a0": {
+    "asset": 1651755421016,
+    "meta": 1651755472298,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Game\\View\\UIGameLose.ts"
+  },
+  "5da8069e-d975-44ff-8c67-e34e4e6ad617": {
+    "asset": 1651755407412,
+    "meta": 1651755472335,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Game\\View\\UINewGame.ts"
+  },
+  "46d162a4-7a61-4dde-bf3c-d1b3c3810a4f": {
+    "asset": 1651755379160,
+    "meta": 1651755472380,
+    "relativePath": "GameBundles\\Solitaire\\Script\\Menu\\SolitaireMenuUIPanel.ts"
+  }
+}

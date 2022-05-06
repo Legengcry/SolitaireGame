@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_statistics_word_best_time",
+    "texture": "5ee1f52a-c882-4f28-b7e4-acee3ef2bbd5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      124,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      124,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

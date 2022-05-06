@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_achievement_daily_task_word_reward",
+    "texture": "7198843f-e36f-4d4d-b591-f52419d6dfb5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      16
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      16
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

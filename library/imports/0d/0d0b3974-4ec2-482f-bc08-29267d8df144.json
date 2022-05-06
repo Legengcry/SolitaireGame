@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_statistics_icon_high_score",
+    "texture": "c1ea5a39-b995-4854-9700-5ca1ac96be3d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      40,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

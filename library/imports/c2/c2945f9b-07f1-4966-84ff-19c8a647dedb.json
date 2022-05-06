@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_setting_icon_left_handed",
+    "texture": "bc1c95ad-23b2-4056-9733-87ad35b741b5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      35,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      35,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

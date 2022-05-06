@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_area_no_click",
+    "texture": "dde50cb6-03cc-4265-80b9-07546af69037",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      81,
+      125
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      81,
+      125
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

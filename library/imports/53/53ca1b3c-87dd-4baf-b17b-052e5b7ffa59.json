@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_statistics_icon_lowest_number_of_moves",
+    "texture": "a1fb0b0b-9f11-488d-9f1c-e53929cd0f36",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      34,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      34,
+      37
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

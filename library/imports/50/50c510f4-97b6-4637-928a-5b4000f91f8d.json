@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_achievement_task_progress_bar",
+    "texture": "d26b4f5d-ba98-492b-9168-a8f2345b05ff",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      413,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      413,
+      24
+    ],
+    "capInsets": [
+      16,
+      8,
+      16,
+      8
+    ]
+  }
+}

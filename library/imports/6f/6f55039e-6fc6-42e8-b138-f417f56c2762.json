@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_themes_menu_pokerback_word_card_collection",
+    "texture": "ca8c554d-45dd-46cd-9ce8-ea4ea07d5914",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      191,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      191,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

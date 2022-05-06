@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_gift_item_coins_100",
+    "texture": "539eeee0-a1e6-468e-8676-2dab5f4d705a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      144,
+      180
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      144,
+      180
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

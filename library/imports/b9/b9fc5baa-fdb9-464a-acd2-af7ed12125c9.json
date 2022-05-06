@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_themes_icon_menu_cardback_normal",
+    "texture": "96c959e2-4a99-49b3-8b07-df80d3e8c702",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

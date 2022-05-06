@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_statistics_word_highest_number_of_moves",
+    "texture": "1687715a-c23a-4ff0-ad20-1602bc6f5d9c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      330,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      330,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

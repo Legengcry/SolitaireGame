@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_statistics_word_won_games",
+    "texture": "c38fae6f-0be9-476b-bc69-cd569afdcf77",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      149,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      149,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_word_no_more_hits_are_possible",
+    "texture": "cb84f130-818f-4f4d-87f9-f9d9705baf78",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      278,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      278,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

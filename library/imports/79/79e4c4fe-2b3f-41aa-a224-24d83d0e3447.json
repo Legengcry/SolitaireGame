@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_expand",
+    "texture": "f93b050f-18ba-45b5-83e6-eff03dfde707",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      32,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

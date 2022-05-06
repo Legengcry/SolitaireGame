@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "52b49a78-2892-4724-b92e-d591dc45a157",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": true,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 36,
+  "height": 35,
+  "platformSettings": {},
+  "subMetas": {
+    "ui_achievement_task_big_gift_lock": {
+      "ver": "1.0.4",
+      "uuid": "90661366-af5e-4967-9c46-7a5e431d2d5d",
+      "rawTextureUuid": "52b49a78-2892-4724-b92e-d591dc45a157",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 36,
+      "height": 35,
+      "rawWidth": 36,
+      "rawHeight": 35,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

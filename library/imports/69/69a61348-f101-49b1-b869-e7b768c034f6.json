@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_setting-icon-rate-the-game",
+    "texture": "034b1f75-408e-453e-ad1e-3feb9bc6e1bb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      41,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      41,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

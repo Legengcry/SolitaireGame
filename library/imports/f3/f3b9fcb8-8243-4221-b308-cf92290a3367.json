@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_over_win_word_now",
+    "texture": "112f86ea-3669-4ae6-8b46-e4097b473f52",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      51,
+      17
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      51,
+      17
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_themes_menu_pokerface_word_unlocked_fronts",
+    "texture": "1afda253-0c10-4bf9-95e0-3e9f385ac5ab",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      213,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      213,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

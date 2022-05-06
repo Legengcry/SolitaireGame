@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_achievement_daily_task_icon_gift_black",
+    "texture": "ae1ea39c-d1d1-47c7-81d5-dd82d04a76ef",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      31,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      31,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

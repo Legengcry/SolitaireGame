@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "skin_bg_pattern_12",
+    "texture": "15ff9db6-9b82-46e2-b75d-09a18f21b620",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      462,
+      399
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      462,
+      399
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

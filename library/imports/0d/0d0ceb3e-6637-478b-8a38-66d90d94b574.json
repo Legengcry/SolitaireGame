@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_statistics_img_progress_bg",
+    "texture": "6557b67e-7905-43ef-a734-01020c114d1e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      188
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      188
+    ],
+    "capInsets": [
+      24,
+      32,
+      24,
+      32
+    ]
+  }
+}

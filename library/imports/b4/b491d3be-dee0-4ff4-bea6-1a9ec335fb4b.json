@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "c_sudoku_8",
+    "texture": "a0cb9337-e7b2-4e9d-8eae-1e3709754cf1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      20,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      20,
+      100
+    ],
+    "capInsets": [
+      4,
+      16,
+      8,
+      16
+    ]
+  }
+}

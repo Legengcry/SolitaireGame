@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_menu_hint",
+    "texture": "e40f025c-5bad-4a8e-b3f8-a01810240e73",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      36,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

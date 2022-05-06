@@ -1,0 +1,394 @@
+{
+  "projectPath": "Y:\\Cocox_code\\rigc\\SolitaireGame",
+  "actualPlatform": "web-mobile",
+  "mtimes": {
+    "c46157ca-9a21-4723-9729-55d2270cb036": {
+      "assetMtime": 1651496023699,
+      "metaMtime": 1651496074297
+    },
+    "01997d3a-0db6-43be-9b3e-47c4b16178e3": {
+      "assetMtime": 1651496023702,
+      "metaMtime": 1651496074314
+    },
+    "e4ef9eeb-1e4f-4ba2-b56c-f8bc2d41412c": {
+      "assetMtime": 1651496023702,
+      "metaMtime": 1651496074314
+    },
+    "039a31a8-eec6-4480-9027-ef9de3741d9c": {
+      "assetMtime": 1651496023705,
+      "metaMtime": 1651496074326
+    },
+    "892637a6-02ff-40ca-82b5-975945b0351b": {
+      "assetMtime": 1651496023705,
+      "metaMtime": 1651496074326
+    },
+    "08da145b-9d83-4c54-8c87-3a442e86e4d3": {
+      "assetMtime": 1651496023704,
+      "metaMtime": 1651496074324
+    },
+    "5dd303b7-3411-4f2a-a123-cbbff4e1774f": {
+      "assetMtime": 1651496023704,
+      "metaMtime": 1651496074324
+    },
+    "22498635-5379-4fb5-8fcd-b6638ff16c1b": {
+      "assetMtime": 1651496023714,
+      "metaMtime": 1651496074366
+    },
+    "43035fa0-180c-4556-913a-0c45d66d3fe1": {
+      "assetMtime": 1651496023714,
+      "metaMtime": 1651496074366
+    },
+    "31dbb6a1-f257-45b7-ae85-ac7a0c2bd933": {
+      "assetMtime": 1651496023706,
+      "metaMtime": 1651496074341
+    },
+    "dc63e912-9c03-40a3-ac5c-bb6464b4a3be": {
+      "assetMtime": 1651496023706,
+      "metaMtime": 1651496074341
+    },
+    "34147aa9-b4e3-4324-a6c2-7c32c7718e6a": {
+      "assetMtime": 1651496023711,
+      "metaMtime": 1651496074352
+    },
+    "5aff588e-b342-4786-b226-fbb42f0fb861": {
+      "assetMtime": 1651496023711,
+      "metaMtime": 1651496074352
+    },
+    "7f521d0c-92b4-41b6-b25e-adebaa5d6427": {
+      "assetMtime": 1651496023713,
+      "metaMtime": 1651496074368
+    },
+    "35763123-5926-48c8-9798-d9a679adad1a": {
+      "assetMtime": 1651496023713,
+      "metaMtime": 1651496074368
+    },
+    "87fd59f8-6572-4378-86e3-4ad0ae9e9f67": {
+      "assetMtime": 1651496023701,
+      "metaMtime": 1651496074312
+    },
+    "c8050e28-d176-4b6b-9c0f-8f372b4b8184": {
+      "assetMtime": 1651496023701,
+      "metaMtime": 1651496074312
+    },
+    "9c2ae73d-3251-4206-80f3-925e68ac8c4c": {
+      "assetMtime": 1651496023716,
+      "metaMtime": 1651496074511
+    },
+    "6896246d-32ea-45d8-a5a5-6b4ad8c82d1e": {
+      "assetMtime": 1651496023716,
+      "metaMtime": 1651496074511
+    },
+    "d95fde3e-e886-4557-a365-64cbf2f401b3": {
+      "assetMtime": 1651496023709,
+      "metaMtime": 1651496074354
+    },
+    "c620bdf5-5332-4426-b112-d664580f1758": {
+      "assetMtime": 1651496023709,
+      "metaMtime": 1651496074354
+    },
+    "fc9fd016-eca8-4215-9302-39c0a5a473cf": {
+      "assetMtime": 1651496023707,
+      "metaMtime": 1651496074338
+    },
+    "d2c04985-99eb-4560-94dd-4f7e0c8765f0": {
+      "assetMtime": 1651496023707,
+      "metaMtime": 1651496074338
+    }
+  },
+  "result": {
+    "name": "AutoAtlas-Base",
+    "width": 512,
+    "height": 512,
+    "ver": "1.2.1",
+    "uuid": "c46157ca-9a21-4723-9729-55d2270cb036",
+    "maxWidth": 512,
+    "maxHeight": 512,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": true,
+    "powerOfTwo": true,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": false,
+    "packable": false,
+    "premultiplyAlpha": true,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "bg",
+            "uuid": "87fd59f8-6572-4378-86e3-4ad0ae9e9f67",
+            "textureUuid": "c8050e28-d176-4b6b-9c0f-8f372b4b8184",
+            "path": "Y:\\Cocox_code\\rigc\\SolitaireGame\\temp\\trimImages\\spritesheet_js_1651842348666_image_7.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 227,
+              "height": 227,
+              "rotatedWidth": 227,
+              "rotatedHeight": 227
+            },
+            "rawWidth": 227,
+            "rawHeight": 227,
+            "width": 233,
+            "height": 233,
+            "originalPath": "Y:/Cocox_code/rigc/SolitaireGame/library/imports/c8/c8050e28-d176-4b6b-9c0f-8f372b4b8184.jpg",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 233,
+            "rotatedHeight": 233
+          },
+          {
+            "name": "gf_bg_tiled",
+            "uuid": "31dbb6a1-f257-45b7-ae85-ac7a0c2bd933",
+            "textureUuid": "dc63e912-9c03-40a3-ac5c-bb6464b4a3be",
+            "path": "Y:\\Cocox_code\\rigc\\SolitaireGame\\temp\\trimImages\\spritesheet_js_1651842348665_image_4.png",
+            "trim": {
+              "x": 236,
+              "y": 3,
+              "width": 24,
+              "height": 12,
+              "rotatedWidth": 12,
+              "rotatedHeight": 24
+            },
+            "rawWidth": 24,
+            "rawHeight": 12,
+            "width": 30,
+            "height": 18,
+            "originalPath": "Y:/Cocox_code/rigc/SolitaireGame/library/imports/dc/dc63e912-9c03-40a3-ac5c-bb6464b4a3be.png",
+            "x": 233,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 18,
+            "rotatedHeight": 30
+          },
+          {
+            "name": "gf_texture_white_2x2",
+            "uuid": "22498635-5379-4fb5-8fcd-b6638ff16c1b",
+            "textureUuid": "43035fa0-180c-4556-913a-0c45d66d3fe1",
+            "path": "Y:\\Cocox_code\\rigc\\SolitaireGame\\temp\\trimImages\\spritesheet_js_1651842348665_image_3.png",
+            "trim": {
+              "x": 236,
+              "y": 33,
+              "width": 2,
+              "height": 2,
+              "rotatedWidth": 2,
+              "rotatedHeight": 2
+            },
+            "rawWidth": 2,
+            "rawHeight": 2,
+            "width": 8,
+            "height": 8,
+            "originalPath": "Y:/Cocox_code/rigc/SolitaireGame/library/imports/43/43035fa0-180c-4556-913a-0c45d66d3fe1.png",
+            "x": 233,
+            "y": 30,
+            "rotatedWidth": 8,
+            "rotatedHeight": 8
+          },
+          {
+            "name": "gf_Icon-60@3x",
+            "uuid": "d95fde3e-e886-4557-a365-64cbf2f401b3",
+            "textureUuid": "c620bdf5-5332-4426-b112-d664580f1758",
+            "path": "Y:\\Cocox_code\\rigc\\SolitaireGame\\temp\\trimImages\\spritesheet_js_1651842348666_image_9.png",
+            "trim": {
+              "x": 3,
+              "y": 236,
+              "width": 180,
+              "height": 180,
+              "rotatedWidth": 180,
+              "rotatedHeight": 180
+            },
+            "rawWidth": 180,
+            "rawHeight": 180,
+            "width": 186,
+            "height": 186,
+            "originalPath": "Y:/Cocox_code/rigc/SolitaireGame/library/imports/c6/c620bdf5-5332-4426-b112-d664580f1758.png",
+            "x": 0,
+            "y": 233,
+            "rotatedWidth": 186,
+            "rotatedHeight": 186
+          },
+          {
+            "name": "c_sudoku_2",
+            "uuid": "08da145b-9d83-4c54-8c87-3a442e86e4d3",
+            "textureUuid": "5dd303b7-3411-4f2a-a123-cbbff4e1774f",
+            "path": "Y:\\Cocox_code\\rigc\\SolitaireGame\\temp\\trimImages\\spritesheet_js_1651842348665_image_2.png",
+            "trim": {
+              "x": 189,
+              "y": 236,
+              "width": 64,
+              "height": 64,
+              "rotatedWidth": 64,
+              "rotatedHeight": 64
+            },
+            "rawWidth": 64,
+            "rawHeight": 64,
+            "width": 70,
+            "height": 70,
+            "originalPath": "Y:/Cocox_code/rigc/SolitaireGame/library/imports/5d/5dd303b7-3411-4f2a-a123-cbbff4e1774f.png",
+            "x": 186,
+            "y": 233,
+            "rotatedWidth": 70,
+            "rotatedHeight": 70
+          },
+          {
+            "name": "gf_bg_tiled_1",
+            "uuid": "fc9fd016-eca8-4215-9302-39c0a5a473cf",
+            "textureUuid": "d2c04985-99eb-4560-94dd-4f7e0c8765f0",
+            "path": "Y:\\Cocox_code\\rigc\\SolitaireGame\\temp\\trimImages\\spritesheet_js_1651842348666_image_10.png",
+            "trim": {
+              "x": 189,
+              "y": 306,
+              "width": 64,
+              "height": 64,
+              "rotatedWidth": 64,
+              "rotatedHeight": 64
+            },
+            "rawWidth": 64,
+            "rawHeight": 64,
+            "width": 70,
+            "height": 70,
+            "originalPath": "Y:/Cocox_code/rigc/SolitaireGame/library/imports/d2/d2c04985-99eb-4560-94dd-4f7e0c8765f0.png",
+            "x": 186,
+            "y": 303,
+            "rotatedWidth": 70,
+            "rotatedHeight": 70
+          },
+          {
+            "name": "c_sudoku_10",
+            "uuid": "01997d3a-0db6-43be-9b3e-47c4b16178e3",
+            "textureUuid": "e4ef9eeb-1e4f-4ba2-b56c-f8bc2d41412c",
+            "path": "Y:\\Cocox_code\\rigc\\SolitaireGame\\temp\\trimImages\\spritesheet_js_1651842348663_image_0.png",
+            "trim": {
+              "x": 3,
+              "y": 422,
+              "width": 44,
+              "height": 74,
+              "rotatedWidth": 44,
+              "rotatedHeight": 74
+            },
+            "rawWidth": 44,
+            "rawHeight": 74,
+            "width": 50,
+            "height": 80,
+            "originalPath": "Y:/Cocox_code/rigc/SolitaireGame/library/imports/e4/e4ef9eeb-1e4f-4ba2-b56c-f8bc2d41412c.png",
+            "x": 0,
+            "y": 419,
+            "rotatedWidth": 50,
+            "rotatedHeight": 80
+          },
+          {
+            "name": "gf_bg_panel",
+            "uuid": "039a31a8-eec6-4480-9027-ef9de3741d9c",
+            "textureUuid": "892637a6-02ff-40ca-82b5-975945b0351b",
+            "path": "Y:\\Cocox_code\\rigc\\SolitaireGame\\temp\\trimImages\\spritesheet_js_1651842348665_image_1.png",
+            "trim": {
+              "x": 53,
+              "y": 422,
+              "width": 72,
+              "height": 72,
+              "rotatedWidth": 72,
+              "rotatedHeight": 72
+            },
+            "rawWidth": 72,
+            "rawHeight": 72,
+            "width": 78,
+            "height": 78,
+            "originalPath": "Y:/Cocox_code/rigc/SolitaireGame/library/imports/89/892637a6-02ff-40ca-82b5-975945b0351b.png",
+            "x": 50,
+            "y": 419,
+            "rotatedWidth": 78,
+            "rotatedHeight": 78
+          },
+          {
+            "name": "gf_zq",
+            "uuid": "9c2ae73d-3251-4206-80f3-925e68ac8c4c",
+            "textureUuid": "6896246d-32ea-45d8-a5a5-6b4ad8c82d1e",
+            "path": "Y:\\Cocox_code\\rigc\\SolitaireGame\\temp\\trimImages\\spritesheet_js_1651842348666_image_8.png",
+            "trim": {
+              "x": 189,
+              "y": 376,
+              "width": 49,
+              "height": 48,
+              "rotatedWidth": 49,
+              "rotatedHeight": 48
+            },
+            "rawWidth": 49,
+            "rawHeight": 48,
+            "width": 55,
+            "height": 54,
+            "originalPath": "Y:/Cocox_code/rigc/SolitaireGame/library/imports/68/6896246d-32ea-45d8-a5a5-6b4ad8c82d1e.png",
+            "x": 186,
+            "y": 373,
+            "rotatedWidth": 55,
+            "rotatedHeight": 54
+          },
+          {
+            "name": "gf_loading_circle",
+            "uuid": "7f521d0c-92b4-41b6-b25e-adebaa5d6427",
+            "textureUuid": "35763123-5926-48c8-9798-d9a679adad1a",
+            "path": "Y:\\Cocox_code\\rigc\\SolitaireGame\\temp\\trimImages\\spritesheet_js_1651842348666_image_6.png",
+            "trim": {
+              "x": 131,
+              "y": 430,
+              "width": 69,
+              "height": 69,
+              "rotatedWidth": 69,
+              "rotatedHeight": 69
+            },
+            "rawWidth": 69,
+            "rawHeight": 69,
+            "width": 75,
+            "height": 75,
+            "originalPath": "Y:/Cocox_code/rigc/SolitaireGame/library/imports/35/35763123-5926-48c8-9798-d9a679adad1a.png",
+            "x": 128,
+            "y": 427,
+            "rotatedWidth": 75,
+            "rotatedHeight": 75
+          },
+          {
+            "name": "gf_img_outline_round",
+            "uuid": "34147aa9-b4e3-4324-a6c2-7c32c7718e6a",
+            "textureUuid": "5aff588e-b342-4786-b226-fbb42f0fb861",
+            "path": "Y:\\Cocox_code\\rigc\\SolitaireGame\\temp\\trimImages\\spritesheet_js_1651842348666_image_5.png",
+            "trim": {
+              "x": 206,
+              "y": 430,
+              "width": 32,
+              "height": 32,
+              "rotatedWidth": 32,
+              "rotatedHeight": 32
+            },
+            "rawWidth": 32,
+            "rawHeight": 32,
+            "width": 38,
+            "height": 38,
+            "originalPath": "Y:/Cocox_code/rigc/SolitaireGame/library/imports/5a/5aff588e-b342-4786-b226-fbb42f0fb861.png",
+            "x": 203,
+            "y": 427,
+            "rotatedWidth": 38,
+            "rotatedHeight": 38
+          }
+        ],
+        "width": 512,
+        "height": 512,
+        "name": "AutoAtlas-Base-1",
+        "imagePath": "Y:\\Cocox_code\\rigc\\SolitaireGame\\temp\\TexturePacker\\build\\native\\assets\\StartScene\\AutoAtlas_Base\\AutoAtlas-Base.pac\\AutoAtlas-Base-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "Y:\\Cocox_code\\rigc\\SolitaireGame\\temp\\TexturePacker\\build\\native\\assets\\StartScene\\AutoAtlas_Base\\AutoAtlas-Base.pac\\compressed\\AutoAtlas-Base-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

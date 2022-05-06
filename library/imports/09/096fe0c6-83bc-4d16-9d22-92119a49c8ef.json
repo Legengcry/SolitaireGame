@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_over_win_word_time",
+    "texture": "852868ec-2e14-40d7-b224-a23fabe275d9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      56,
+      17
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      56,
+      17
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

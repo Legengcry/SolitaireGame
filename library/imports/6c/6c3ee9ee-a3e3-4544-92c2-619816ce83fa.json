@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "p_face_point_2_1_13",
+    "texture": "a98f7a57-9a4c-4d0c-8159-5f7a07501380",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      71,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      71,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

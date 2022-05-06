@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_achievement_daily_reward_word_next_gifts_",
+    "texture": "4009c598-9fb3-439f-9cdf-e1f507603139",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      93,
+      20
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      93,
+      20
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

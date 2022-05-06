@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "cf0bd596-6506-4f8a-b7f0-53fe29904390",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": true,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 82,
+  "height": 127,
+  "platformSettings": {},
+  "subMetas": {
+    "poker_novel_0": {
+      "ver": "1.0.4",
+      "uuid": "fe7b4e4c-49b8-4b2e-ac99-1c8caa862a33",
+      "rawTextureUuid": "cf0bd596-6506-4f8a-b7f0-53fe29904390",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 82,
+      "height": 127,
+      "rawWidth": 82,
+      "rawHeight": 127,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

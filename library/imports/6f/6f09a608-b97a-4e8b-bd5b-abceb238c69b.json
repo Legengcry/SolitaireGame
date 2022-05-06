@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_win_board_title",
+    "texture": "10e139d3-51de-48ec-abf7-3e10fae4cc68",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      214,
+      106
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      214,
+      106
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

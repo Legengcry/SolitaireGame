@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_start_play_btn_hard",
+    "texture": "f3b93dd8-ac87-42d5-80c6-f32d9e5f0be4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      83,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      83,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_start_btn_ad_no_network",
+    "texture": "2d6fb71d-6b8a-46e1-969a-56580b147560",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      147,
+      122
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      147,
+      122
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

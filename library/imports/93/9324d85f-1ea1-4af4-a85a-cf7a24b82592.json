@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_statistics_img_headline_button",
+    "texture": "730f032a-518a-418a-980a-5173a9c69463",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      6,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      6,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

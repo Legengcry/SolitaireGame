@@ -1,0 +1,53 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+        {
+            "label": "[IIFramework] 构建 IIFramework 生成 ii 插件",
+            "type": "npm",
+            "script": "build",
+            "path": "plugins/IIFramework/",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [],
+            "detail": "gulp build"
+        }
+        ,{
+            "label": "git >> git push -f",
+            "type": "shell",
+            "command": "git push -f",
+            "problemMatcher": [ ]
+        }
+        ,{
+            "label": "[iOS] [热更新] 制作更新源",
+            "type": "shell",
+            "command": "sh .vscode/version_ios.sh",
+            "problemMatcher": [ ]
+        }
+        ,{
+            "label": "[iOS] [热更新] 推送更新源",
+            "type": "shell",
+            "command": "sh .vscode/version_ios_git_push.sh",
+            "problemMatcher": [ ]
+        }
+        ,{
+            "label": "[iOS] [热更新] 制作更新源 && 推送更新源",
+            "type": "shell",
+            "command": "sh .vscode/version_ios.sh && sh .vscode/version_ios_git_push.sh",
+            "problemMatcher": [ ]
+        }
+        ,{
+            "label": "[微信小游戏] 拷贝 wechatgame 到 ../_wechatgame/[项目名]/",
+            "type": "shell",
+            "command": "sh .vscode/copy_wechatgame_to.sh",
+            "problemMatcher": [ ]
+        }
+        ,{
+            "label": "curl version.manifest",
+            "type": "shell",
+            "command": "curl https://solitaire.numas.ltd/ios/remote-assets/version.manifest",
+            "problemMatcher": [ ]
+        }
+    ]
+}

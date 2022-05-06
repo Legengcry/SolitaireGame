@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_themes_menu_boards_word_gackground_colors",
+    "texture": "33b7cf48-9984-45e6-baf0-d7f9cf803a75",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      240,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      240,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

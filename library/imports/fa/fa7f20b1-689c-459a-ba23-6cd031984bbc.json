@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_achievement_task_reward_bg",
+    "texture": "64e2b0f2-029f-412f-aaae-068e20161e16",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      180,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      81
+    ],
+    "capInsets": [
+      16,
+      16,
+      16,
+      20
+    ]
+  }
+}

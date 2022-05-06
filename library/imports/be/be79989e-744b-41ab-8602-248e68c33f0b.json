@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_themes_icon_menu_cardface_select",
+    "texture": "6a5c5eee-444b-40e2-b7ac-262aaeea2aa4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

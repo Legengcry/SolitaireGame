@@ -1,0 +1,95 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": -311,
+      "y": 529,
+      "width": 1539,
+      "height": 679,
+      "layout": {
+        "children": [
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "hierarchy"
+                ],
+                "height": 226,
+                "type": "panel",
+                "width": 327.0874938964844
+              },
+              {
+                "active": 0,
+                "children": [
+                  "assets"
+                ],
+                "height": 285.6000061035156,
+                "type": "panel",
+                "width": 327.0874938964844
+              }
+            ],
+            "height": 514.6000366210938,
+            "type": "dock-v",
+            "width": 327.0874938964844
+          },
+          {
+            "active": 0,
+            "children": [
+              "scene"
+            ],
+            "height": 514.6000366210938,
+            "type": "panel",
+            "width": 885.2250366210938
+          },
+          {
+            "active": 0,
+            "children": [
+              "inspector",
+              "cocos-services"
+            ],
+            "height": 556,
+            "type": "panel",
+            "width": 304.07501220703125
+          }
+        ],
+        "type": "dock-h"
+      },
+      "panels": [
+        "hierarchy",
+        "assets",
+        "scene",
+        "inspector",
+        "cocos-services"
+      ]
+    }
+  },
+  "panels": {
+    "preferences": {
+      "x": 476,
+      "y": 148,
+      "width": 603,
+      "height": 567
+    },
+    "sprite-editor": {
+      "x": 702,
+      "y": 240,
+      "width": 516,
+      "height": 539
+    },
+    "builder": {
+      "x": 944,
+      "y": 74,
+      "width": 517,
+      "height": 740
+    }
+  },
+  "panelLabelWidth": {
+    "inspector": null,
+    "preferences": null,
+    "builder": null
+  }
+}

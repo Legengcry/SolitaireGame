@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_autoplay_next",
+    "texture": "75f2716d-0d23-49af-bb56-c68a71cc0d25",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      37,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      37,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

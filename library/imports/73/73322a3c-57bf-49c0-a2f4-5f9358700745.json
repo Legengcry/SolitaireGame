@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_themes_menu_music_word_music_collection",
+    "texture": "5f4c611f-8809-4fa4-a279-0859370ceb8d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      212,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      212,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

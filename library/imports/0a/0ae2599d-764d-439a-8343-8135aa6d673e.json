@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_over_win_word_moves",
+    "texture": "1585bcfb-8e4c-48cb-a0ed-e7bc463b0175",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      17
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      17
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_gift_item_skin_card_back",
+    "texture": "abcd8ad6-0bda-40ce-9549-b3be749301d5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      144,
+      180
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      144,
+      180
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

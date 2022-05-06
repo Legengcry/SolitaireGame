@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_start_word_vegas",
+    "texture": "a49fac72-438d-4ff5-8ab4-2570ff9d825c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      67,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

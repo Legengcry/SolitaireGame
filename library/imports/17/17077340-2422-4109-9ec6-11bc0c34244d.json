@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_start_play_btn_seed",
+    "texture": "9a74d170-9acf-4d5c-a30d-0c2b47b32898",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      83,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      83,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

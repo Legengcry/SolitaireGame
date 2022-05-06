@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_start_play_card_3",
+    "texture": "5f92ae0d-f15b-4014-ae13-437c81046c6b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      65,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gf_loading_circle",
+    "texture": "35763123-5926-48c8-9798-d9a679adad1a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      69,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_start_bg_circle",
+    "texture": "c2153c3c-7fa6-4359-818b-6eddf0d91b90",
+    "atlas": "",
+    "rect": [
+      0,
+      12,
+      345,
+      930
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      345,
+      954
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

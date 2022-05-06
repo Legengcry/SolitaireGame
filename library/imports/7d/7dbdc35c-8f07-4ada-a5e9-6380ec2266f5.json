@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_themes_menu_pokerface_word_card_face_collection",
+    "texture": "38c719c4-b1e2-46a0-a829-cf018b3aa227",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      251,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      251,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

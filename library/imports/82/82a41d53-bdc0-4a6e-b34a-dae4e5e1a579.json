@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_achievement_daily_task_progress_bg",
+    "texture": "cc3c1a8f-9b42-4dfc-9fbb-71b1ce759ce4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      156,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      156,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

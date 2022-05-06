@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_themes_icon_menu_boards_select",
+    "texture": "0ee2095c-fea7-4a87-abb9-e7399041eb1f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      53,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

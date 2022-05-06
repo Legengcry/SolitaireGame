@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "com_tile_black_title",
+    "texture": "85760998-1807-4bad-bab9-883c1c86b161",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      10,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      10,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

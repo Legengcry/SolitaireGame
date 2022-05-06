@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_statistics_word_average_game_time",
+    "texture": "4a2c74b1-18e4-4abc-80ab-dfafc50ab73e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      248,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      248,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

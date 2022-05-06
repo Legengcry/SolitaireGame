@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_setting-toggle-on",
+    "texture": "088f72d1-6ee1-4374-949d-77d10956131c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      79,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

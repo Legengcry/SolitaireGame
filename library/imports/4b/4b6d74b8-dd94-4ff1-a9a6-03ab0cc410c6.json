@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_start_word_resume",
+    "texture": "f25de620-f13c-4341-b677-7ad05eb0edb1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      107,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      107,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_themes_word_themes",
+    "texture": "d197e3b0-ae23-4323-a842-00fae9a9f210",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      127,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      127,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

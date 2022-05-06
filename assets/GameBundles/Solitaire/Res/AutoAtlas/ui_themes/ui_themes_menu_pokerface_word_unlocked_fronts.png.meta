@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1afda253-0c10-4bf9-95e0-3e9f385ac5ab",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": true,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 213,
+  "height": 21,
+  "platformSettings": {},
+  "subMetas": {
+    "ui_themes_menu_pokerface_word_unlocked_fronts": {
+      "ver": "1.0.4",
+      "uuid": "f1d09a3b-30cc-440e-b484-524a2e159f17",
+      "rawTextureUuid": "1afda253-0c10-4bf9-95e0-3e9f385ac5ab",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 213,
+      "height": 21,
+      "rawWidth": 213,
+      "rawHeight": 21,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

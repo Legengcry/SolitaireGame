@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_statistics_icon_win_cup",
+    "texture": "1dfb791e-2056-44e8-af03-0358f643841d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      35,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      35,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

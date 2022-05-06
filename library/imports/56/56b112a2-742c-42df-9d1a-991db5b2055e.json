@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_autoplay_step",
+    "texture": "e9971b7b-3ecb-47be-a1f1-d832d09cc341",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      30,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      30,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

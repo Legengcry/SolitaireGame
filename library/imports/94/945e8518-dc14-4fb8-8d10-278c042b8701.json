@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_over_win_word_best",
+    "texture": "3e8ea9bb-c644-4964-99a0-4da41e7b5f60",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      52,
+      17
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      52,
+      17
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
